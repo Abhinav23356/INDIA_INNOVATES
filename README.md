@@ -149,29 +149,29 @@ These datasets simulate **real-world civic data used by government monitoring sy
 # 🖥 Dashboard Screenshots
 
 ### Main Dashboard
-~~~
+```
 <img width="946" height="824" alt="image" src="https://github.com/user-attachments/assets/5b7de8e9-f897-4dab-9520-4a5ce4db4d64" />
 <img width="765" height="699" alt="image" src="https://github.com/user-attachments/assets/b25a3b36-10c4-4b40-a9d4-cbb7564b7796" />
-~~~
+```
 
 
 ### Map Visualization
-~~~
+```
 <img width="843" height="697" alt="image" src="https://github.com/user-attachments/assets/df1c0194-ef4b-4b8c-b8bb-bbe9a06a4cbe" />
 <img width="786" height="676" alt="image" src="https://github.com/user-attachments/assets/3e96fa9a-4e49-4a6f-a7bb-75a9a397ebdc" />
 <img width="783" height="676" alt="image" src="https://github.com/user-attachments/assets/d272ed48-22b5-47b9-9506-5d93fa27a433" />
-~~~
+```
 
 
 
 
 ### Data Analytics
-~~~
+```
 <img width="760" height="517" alt="image" src="https://github.com/user-attachments/assets/9cdce5b1-d875-4517-9b9f-fb0694a199de" />
 <img width="739" height="457" alt="image" src="https://github.com/user-attachments/assets/5af19581-3c15-4bb5-832e-e8d224f97a66" />
 <img width="733" height="494" alt="image" src="https://github.com/user-attachments/assets/e720e656-00aa-4d24-9fcb-3a07b07063a5" />
 <img width="766" height="506" alt="image" src="https://github.com/user-attachments/assets/74ee6665-33c9-46b7-9994-61650bd72426" />
-~~~
+```
 
 
 
