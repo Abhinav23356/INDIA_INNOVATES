@@ -261,12 +261,12 @@ The application will launch in your browser.
 
 Planned enhancements include:
 
-* District-level heatmaps
-* AI-driven project risk prediction
-* Complaint resolution tracking
-* Mobile-friendly dashboard interface
-* Integration with real government datasets
-* AI summarization of governance insights
+* Document Intelligence Module
+* Meeting Intelligence System
+* Speech & Communication Assistant
+* Smart Scheduling & Task Manager
+* News & Social Media Monitoring
+
 
 ---
 
