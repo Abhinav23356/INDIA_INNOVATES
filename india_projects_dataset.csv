@@ -1,0 +1,819 @@
+project_id,state,district,latitude,longitude,project_type,budget_crore,progress_percent,status,start_date,expected_completion
+1,Delhi,New Delhi,28.6139,77.209,Solar Power Plant,500,65,Ongoing,2025-01-12,2027-02-17
+2,Delhi,New Delhi,28.6139,77.209,Hospital Development,267,40,Ongoing,2025-09-08,2026-08-12
+3,Delhi,New Delhi,28.6139,77.209,Bridge Construction,159,66,Ongoing,2024-01-12,2024-12-19
+4,Delhi,New Delhi,28.6139,77.209,Water Supply Project,241,92,Near Completion,2024-01-02,2024-09-27
+5,Delhi,New Delhi,28.6139,77.209,Road Construction,253,70,Ongoing,2025-10-06,2027-12-21
+6,Delhi,New Delhi,28.6139,77.209,Hospital Development,345,38,Ongoing,2025-09-24,2028-02-01
+7,Delhi,New Delhi,28.6139,77.209,Hospital Development,140,98,Near Completion,2024-12-12,2026-03-26
+8,Delhi,New Delhi,28.6139,77.209,Road Construction,460,9,Ongoing,2023-07-02,2024-08-05
+9,Delhi,New Delhi,28.6139,77.209,Smart City Infrastructure,485,59,Ongoing,2024-04-12,2025-02-17
+10,Delhi,New Delhi,28.6139,77.209,Smart City Infrastructure,401,55,Ongoing,2025-06-26,2027-11-02
+11,Delhi,New Delhi,28.6139,77.209,Metro Expansion,246,22,Ongoing,2025-11-19,2026-09-27
+12,Delhi,New Delhi,28.6139,77.209,Hospital Development,95,91,Near Completion,2025-02-12,2026-09-19
+13,Delhi,New Delhi,28.6139,77.209,Solar Power Plant,156,100,Completed,2024-06-16,2025-04-21
+14,Delhi,New Delhi,28.6139,77.209,School Infrastructure,217,92,Near Completion,2024-08-29,2025-06-26
+15,Delhi,South Delhi,28.5245,77.1855,Solar Power Plant,44,2,Ongoing,2023-09-04,2025-08-29
+16,Delhi,South Delhi,28.5245,77.1855,Hospital Development,472,46,Ongoing,2025-08-25,2026-09-17
+17,Delhi,South Delhi,28.5245,77.1855,School Infrastructure,444,98,Near Completion,2023-10-22,2025-12-18
+18,Delhi,South Delhi,28.5245,77.1855,Hospital Development,339,14,Ongoing,2025-04-25,2027-03-25
+19,Delhi,South Delhi,28.5245,77.1855,Bridge Construction,384,64,Ongoing,2025-01-01,2025-07-26
+20,Delhi,South Delhi,28.5245,77.1855,Metro Expansion,68,68,Ongoing,2023-08-12,2025-09-04
+21,Maharashtra,Mumbai,19.076,72.8777,Hospital Development,293,5,Ongoing,2025-05-26,2026-07-17
+22,Maharashtra,Mumbai,19.076,72.8777,Bridge Construction,130,18,Ongoing,2024-07-15,2025-07-14
+23,Maharashtra,Mumbai,19.076,72.8777,Road Construction,397,2,Ongoing,2025-04-22,2026-07-14
+24,Maharashtra,Mumbai,19.076,72.8777,Solar Power Plant,28,6,Ongoing,2025-07-21,2026-07-06
+25,Maharashtra,Mumbai,19.076,72.8777,Bridge Construction,321,37,Ongoing,2024-06-16,2026-04-13
+26,Maharashtra,Mumbai,19.076,72.8777,Hospital Development,147,35,Ongoing,2024-07-23,2026-09-21
+27,Maharashtra,Mumbai,19.076,72.8777,Water Supply Project,194,8,Ongoing,2024-07-21,2025-04-16
+28,Maharashtra,Mumbai,19.076,72.8777,Smart City Infrastructure,194,14,Ongoing,2025-01-28,2025-10-12
+29,Maharashtra,Mumbai,19.076,72.8777,School Infrastructure,427,35,Ongoing,2024-09-29,2025-11-14
+30,Maharashtra,Mumbai,19.076,72.8777,Water Supply Project,106,60,Ongoing,2025-01-20,2026-03-08
+31,Maharashtra,Pune,18.5204,73.8567,Smart City Infrastructure,49,73,Near Completion,2025-02-25,2027-05-17
+32,Maharashtra,Pune,18.5204,73.8567,Water Supply Project,374,47,Ongoing,2025-05-18,2026-11-12
+33,Maharashtra,Pune,18.5204,73.8567,Water Supply Project,103,49,Ongoing,2025-01-13,2026-09-14
+34,Maharashtra,Pune,18.5204,73.8567,Bridge Construction,296,76,Near Completion,2024-02-08,2025-05-18
+35,Maharashtra,Pune,18.5204,73.8567,Road Construction,72,54,Ongoing,2024-05-09,2026-02-02
+36,Maharashtra,Pune,18.5204,73.8567,Water Supply Project,103,13,Ongoing,2023-11-12,2024-07-11
+37,Maharashtra,Pune,18.5204,73.8567,Bridge Construction,217,89,Near Completion,2023-11-08,2024-11-02
+38,Maharashtra,Pune,18.5204,73.8567,Hospital Development,203,26,Ongoing,2025-11-02,2027-06-30
+39,Maharashtra,Nagpur,21.1458,79.0882,Road Construction,109,14,Ongoing,2024-01-20,2025-10-05
+40,Maharashtra,Nagpur,21.1458,79.0882,Smart City Infrastructure,246,81,Near Completion,2024-02-10,2025-08-04
+41,Maharashtra,Nagpur,21.1458,79.0882,Smart City Infrastructure,227,71,Near Completion,2024-10-04,2025-07-26
+42,Maharashtra,Nagpur,21.1458,79.0882,Water Supply Project,188,22,Ongoing,2023-11-07,2024-10-13
+43,Maharashtra,Nagpur,21.1458,79.0882,Solar Power Plant,248,67,Ongoing,2025-09-26,2026-07-18
+44,Maharashtra,Nagpur,21.1458,79.0882,School Infrastructure,226,9,Ongoing,2025-09-10,2027-05-31
+45,Maharashtra,Nagpur,21.1458,79.0882,Water Supply Project,472,24,Ongoing,2025-09-05,2028-01-19
+46,Maharashtra,Nashik,19.9975,73.7898,Solar Power Plant,50,34,Ongoing,2024-09-15,2026-06-04
+47,Maharashtra,Nashik,19.9975,73.7898,Solar Power Plant,108,31,Ongoing,2024-08-09,2025-02-28
+48,Maharashtra,Nashik,19.9975,73.7898,Metro Expansion,87,92,Near Completion,2023-11-25,2025-05-18
+49,Maharashtra,Nashik,19.9975,73.7898,Road Construction,175,84,Near Completion,2025-07-18,2027-07-25
+50,Maharashtra,Nashik,19.9975,73.7898,Hospital Development,236,36,Ongoing,2024-08-31,2026-10-27
+51,Maharashtra,Nashik,19.9975,73.7898,Solar Power Plant,127,42,Ongoing,2023-08-06,2025-07-23
+52,Maharashtra,Nashik,19.9975,73.7898,Road Construction,464,91,Near Completion,2024-07-09,2025-08-04
+53,Maharashtra,Nashik,19.9975,73.7898,Water Supply Project,153,9,Ongoing,2023-08-07,2025-09-08
+54,Maharashtra,Nashik,19.9975,73.7898,Water Supply Project,258,95,Near Completion,2024-09-08,2025-07-23
+55,Maharashtra,Nashik,19.9975,73.7898,Smart City Infrastructure,286,79,Near Completion,2025-07-25,2028-01-07
+56,Maharashtra,Nashik,19.9975,73.7898,Bridge Construction,263,16,Ongoing,2024-10-14,2025-09-24
+57,Maharashtra,Nashik,19.9975,73.7898,School Infrastructure,273,71,Near Completion,2024-06-07,2025-11-01
+58,Maharashtra,Aurangabad,19.8762,75.3433,Solar Power Plant,238,93,Near Completion,2024-12-26,2026-05-25
+59,Maharashtra,Aurangabad,19.8762,75.3433,Road Construction,35,19,Ongoing,2024-03-06,2025-08-12
+60,Maharashtra,Aurangabad,19.8762,75.3433,Road Construction,146,70,Ongoing,2025-09-18,2028-01-31
+61,Maharashtra,Aurangabad,19.8762,75.3433,Smart City Infrastructure,169,73,Near Completion,2024-11-13,2026-12-02
+62,Maharashtra,Aurangabad,19.8762,75.3433,School Infrastructure,360,90,Near Completion,2025-10-10,2028-01-01
+63,Maharashtra,Aurangabad,19.8762,75.3433,Metro Expansion,83,7,Ongoing,2023-06-29,2024-03-31
+64,Maharashtra,Kolhapur,16.705,74.2433,Smart City Infrastructure,21,86,Near Completion,2024-09-30,2026-08-18
+65,Maharashtra,Kolhapur,16.705,74.2433,School Infrastructure,423,18,Ongoing,2025-07-03,2027-04-22
+66,Maharashtra,Kolhapur,16.705,74.2433,Smart City Infrastructure,449,37,Ongoing,2025-08-08,2026-12-11
+67,Maharashtra,Kolhapur,16.705,74.2433,Hospital Development,308,36,Ongoing,2024-07-14,2026-07-15
+68,Maharashtra,Kolhapur,16.705,74.2433,Water Supply Project,364,79,Near Completion,2024-11-17,2026-01-01
+69,Maharashtra,Kolhapur,16.705,74.2433,Hospital Development,390,50,Ongoing,2024-04-04,2024-11-09
+70,Maharashtra,Kolhapur,16.705,74.2433,Smart City Infrastructure,488,34,Ongoing,2023-11-14,2026-04-09
+71,Maharashtra,Kolhapur,16.705,74.2433,Hospital Development,261,79,Near Completion,2023-12-24,2025-09-03
+72,Maharashtra,Kolhapur,16.705,74.2433,Bridge Construction,299,70,Ongoing,2025-04-27,2026-06-22
+73,Maharashtra,Kolhapur,16.705,74.2433,School Infrastructure,270,90,Near Completion,2024-12-12,2026-11-21
+74,Maharashtra,Kolhapur,16.705,74.2433,School Infrastructure,381,83,Near Completion,2024-10-06,2026-05-29
+75,Maharashtra,Kolhapur,16.705,74.2433,Bridge Construction,383,83,Near Completion,2025-08-14,2027-07-26
+76,Maharashtra,Kolhapur,16.705,74.2433,Bridge Construction,397,83,Near Completion,2023-07-31,2024-02-23
+77,Maharashtra,Kolhapur,16.705,74.2433,Road Construction,247,59,Ongoing,2024-03-14,2024-12-06
+78,Maharashtra,Kolhapur,16.705,74.2433,Water Supply Project,155,61,Ongoing,2024-10-03,2027-03-18
+79,Maharashtra,Solapur,17.6599,75.9064,School Infrastructure,132,70,Ongoing,2025-10-31,2027-06-20
+80,Maharashtra,Solapur,17.6599,75.9064,School Infrastructure,53,67,Ongoing,2025-08-31,2026-06-21
+81,Maharashtra,Solapur,17.6599,75.9064,Bridge Construction,162,55,Ongoing,2025-07-31,2027-04-05
+82,Maharashtra,Solapur,17.6599,75.9064,Water Supply Project,91,12,Ongoing,2025-08-04,2027-08-14
+83,Maharashtra,Solapur,17.6599,75.9064,Hospital Development,381,20,Ongoing,2023-06-19,2024-11-09
+84,Maharashtra,Solapur,17.6599,75.9064,Smart City Infrastructure,258,92,Near Completion,2025-06-26,2027-02-18
+85,Maharashtra,Solapur,17.6599,75.9064,Bridge Construction,474,87,Near Completion,2024-08-27,2025-08-13
+86,Maharashtra,Solapur,17.6599,75.9064,Solar Power Plant,229,7,Ongoing,2025-08-05,2028-01-07
+87,Maharashtra,Solapur,17.6599,75.9064,Road Construction,374,52,Ongoing,2024-05-11,2026-07-23
+88,Maharashtra,Solapur,17.6599,75.9064,Metro Expansion,410,99,Near Completion,2024-03-17,2026-08-09
+89,Maharashtra,Solapur,17.6599,75.9064,Road Construction,404,42,Ongoing,2025-05-25,2026-11-15
+90,Maharashtra,Solapur,17.6599,75.9064,School Infrastructure,96,72,Near Completion,2023-07-19,2024-09-07
+91,Maharashtra,Solapur,17.6599,75.9064,Smart City Infrastructure,213,78,Near Completion,2025-07-13,2027-05-10
+92,Maharashtra,Solapur,17.6599,75.9064,School Infrastructure,360,50,Ongoing,2025-06-08,2027-08-23
+93,Maharashtra,Solapur,17.6599,75.9064,Metro Expansion,392,67,Ongoing,2024-03-07,2026-01-13
+94,Karnataka,Bengaluru,12.9716,77.5946,Bridge Construction,447,17,Ongoing,2025-08-19,2027-05-15
+95,Karnataka,Bengaluru,12.9716,77.5946,Smart City Infrastructure,458,42,Ongoing,2025-05-31,2027-09-20
+96,Karnataka,Bengaluru,12.9716,77.5946,Water Supply Project,92,87,Near Completion,2024-04-18,2025-12-01
+97,Karnataka,Bengaluru,12.9716,77.5946,Bridge Construction,347,41,Ongoing,2024-06-16,2025-08-05
+98,Karnataka,Bengaluru,12.9716,77.5946,Road Construction,360,56,Ongoing,2024-10-26,2026-04-11
+99,Karnataka,Bengaluru,12.9716,77.5946,Water Supply Project,172,59,Ongoing,2024-03-21,2025-08-06
+100,Karnataka,Bengaluru,12.9716,77.5946,Road Construction,27,6,Ongoing,2025-04-02,2027-07-18
+101,Karnataka,Bengaluru,12.9716,77.5946,Smart City Infrastructure,424,31,Ongoing,2025-11-20,2027-07-16
+102,Karnataka,Bengaluru,12.9716,77.5946,Metro Expansion,442,5,Ongoing,2024-04-22,2026-05-19
+103,Karnataka,Bengaluru,12.9716,77.5946,School Infrastructure,484,34,Ongoing,2024-03-05,2025-01-07
+104,Karnataka,Bengaluru,12.9716,77.5946,Smart City Infrastructure,243,41,Ongoing,2025-10-27,2027-05-12
+105,Karnataka,Bengaluru,12.9716,77.5946,Smart City Infrastructure,446,29,Ongoing,2023-12-10,2024-09-03
+106,Karnataka,Bengaluru,12.9716,77.5946,Road Construction,205,55,Ongoing,2024-11-25,2026-04-21
+107,Karnataka,Mysuru,12.2958,76.6394,Metro Expansion,380,35,Ongoing,2023-09-08,2025-01-13
+108,Karnataka,Mysuru,12.2958,76.6394,School Infrastructure,492,79,Near Completion,2025-05-31,2026-11-20
+109,Karnataka,Mysuru,12.2958,76.6394,Smart City Infrastructure,392,91,Near Completion,2024-10-09,2025-07-26
+110,Karnataka,Mysuru,12.2958,76.6394,Solar Power Plant,293,6,Ongoing,2024-06-14,2026-10-14
+111,Karnataka,Mysuru,12.2958,76.6394,Smart City Infrastructure,427,58,Ongoing,2025-07-13,2027-04-13
+112,Karnataka,Mangaluru,12.9141,74.856,Road Construction,287,24,Ongoing,2023-12-28,2025-04-13
+113,Karnataka,Mangaluru,12.9141,74.856,Smart City Infrastructure,496,75,Near Completion,2024-12-17,2026-07-01
+114,Karnataka,Mangaluru,12.9141,74.856,Water Supply Project,419,50,Ongoing,2024-04-05,2026-03-12
+115,Karnataka,Mangaluru,12.9141,74.856,Metro Expansion,112,48,Ongoing,2023-09-08,2025-01-31
+116,Karnataka,Mangaluru,12.9141,74.856,Solar Power Plant,289,37,Ongoing,2025-08-18,2027-06-10
+117,Karnataka,Mangaluru,12.9141,74.856,Metro Expansion,279,99,Near Completion,2023-10-24,2025-07-20
+118,Karnataka,Mangaluru,12.9141,74.856,Smart City Infrastructure,36,10,Ongoing,2023-08-29,2024-11-07
+119,Karnataka,Mangaluru,12.9141,74.856,School Infrastructure,304,86,Near Completion,2024-08-30,2026-09-01
+120,Karnataka,Hubli,15.3647,75.124,Road Construction,359,9,Ongoing,2024-06-10,2026-11-10
+121,Karnataka,Hubli,15.3647,75.124,Smart City Infrastructure,155,71,Near Completion,2024-08-10,2025-11-20
+122,Karnataka,Hubli,15.3647,75.124,Bridge Construction,480,23,Ongoing,2024-02-09,2025-07-16
+123,Karnataka,Hubli,15.3647,75.124,Smart City Infrastructure,68,49,Ongoing,2023-12-29,2025-07-19
+124,Karnataka,Hubli,15.3647,75.124,School Infrastructure,409,16,Ongoing,2024-09-08,2026-04-28
+125,Karnataka,Hubli,15.3647,75.124,Water Supply Project,249,4,Ongoing,2025-01-16,2026-10-24
+126,Karnataka,Hubli,15.3647,75.124,Road Construction,26,58,Ongoing,2025-09-15,2026-04-06
+127,Karnataka,Hubli,15.3647,75.124,Road Construction,66,16,Ongoing,2025-11-17,2027-07-19
+128,Karnataka,Hubli,15.3647,75.124,Hospital Development,488,43,Ongoing,2025-02-06,2025-09-24
+129,Karnataka,Hubli,15.3647,75.124,Smart City Infrastructure,73,80,Near Completion,2023-10-20,2025-01-28
+130,Karnataka,Hubli,15.3647,75.124,Hospital Development,500,29,Ongoing,2025-06-14,2027-01-30
+131,Karnataka,Belagavi,15.8497,74.4977,Road Construction,70,56,Ongoing,2025-07-16,2026-03-15
+132,Karnataka,Belagavi,15.8497,74.4977,Solar Power Plant,54,94,Near Completion,2024-12-06,2025-10-31
+133,Karnataka,Belagavi,15.8497,74.4977,Hospital Development,158,62,Ongoing,2024-02-29,2025-09-03
+134,Karnataka,Belagavi,15.8497,74.4977,Road Construction,147,98,Near Completion,2024-06-05,2025-10-18
+135,Karnataka,Belagavi,15.8497,74.4977,Hospital Development,317,62,Ongoing,2024-05-31,2026-07-03
+136,Karnataka,Belagavi,15.8497,74.4977,Smart City Infrastructure,400,10,Ongoing,2023-10-19,2025-06-07
+137,Karnataka,Belagavi,15.8497,74.4977,Hospital Development,375,40,Ongoing,2024-04-16,2026-04-01
+138,Karnataka,Belagavi,15.8497,74.4977,Hospital Development,59,34,Ongoing,2024-04-28,2026-04-28
+139,Karnataka,Belagavi,15.8497,74.4977,Metro Expansion,75,78,Near Completion,2025-08-01,2027-03-15
+140,Karnataka,Ballari,15.1394,76.9214,Road Construction,135,36,Ongoing,2024-07-15,2025-04-17
+141,Karnataka,Ballari,15.1394,76.9214,Metro Expansion,71,41,Ongoing,2025-02-03,2027-07-05
+142,Karnataka,Ballari,15.1394,76.9214,Metro Expansion,115,99,Near Completion,2024-09-01,2026-09-10
+143,Karnataka,Ballari,15.1394,76.9214,Smart City Infrastructure,119,62,Ongoing,2025-08-30,2026-08-10
+144,Karnataka,Ballari,15.1394,76.9214,Metro Expansion,219,83,Near Completion,2023-07-27,2025-04-29
+145,Karnataka,Ballari,15.1394,76.9214,Road Construction,22,92,Near Completion,2025-05-05,2027-05-02
+146,Karnataka,Ballari,15.1394,76.9214,Hospital Development,350,85,Near Completion,2024-03-08,2025-07-01
+147,Karnataka,Ballari,15.1394,76.9214,Solar Power Plant,76,78,Near Completion,2025-02-28,2027-02-07
+148,Karnataka,Ballari,15.1394,76.9214,Hospital Development,116,12,Ongoing,2024-07-28,2026-11-28
+149,Tamil Nadu,Chennai,13.0827,80.2707,Bridge Construction,204,62,Ongoing,2024-04-22,2026-03-09
+150,Tamil Nadu,Chennai,13.0827,80.2707,Water Supply Project,344,16,Ongoing,2023-08-17,2024-10-26
+151,Tamil Nadu,Chennai,13.0827,80.2707,Smart City Infrastructure,329,56,Ongoing,2025-01-14,2026-02-21
+152,Tamil Nadu,Chennai,13.0827,80.2707,Solar Power Plant,353,63,Ongoing,2024-01-09,2025-02-27
+153,Tamil Nadu,Chennai,13.0827,80.2707,Smart City Infrastructure,391,36,Ongoing,2025-08-19,2026-04-09
+154,Tamil Nadu,Chennai,13.0827,80.2707,Bridge Construction,456,59,Ongoing,2024-01-14,2024-10-19
+155,Tamil Nadu,Chennai,13.0827,80.2707,Water Supply Project,494,37,Ongoing,2025-02-21,2027-04-18
+156,Tamil Nadu,Coimbatore,11.0168,76.9558,Water Supply Project,36,84,Near Completion,2025-06-04,2026-03-12
+157,Tamil Nadu,Coimbatore,11.0168,76.9558,Solar Power Plant,333,5,Ongoing,2025-02-22,2026-12-02
+158,Tamil Nadu,Coimbatore,11.0168,76.9558,Bridge Construction,318,22,Ongoing,2023-06-24,2024-10-04
+159,Tamil Nadu,Coimbatore,11.0168,76.9558,Bridge Construction,373,41,Ongoing,2025-01-09,2026-03-08
+160,Tamil Nadu,Coimbatore,11.0168,76.9558,School Infrastructure,292,86,Near Completion,2023-10-20,2026-01-23
+161,Tamil Nadu,Coimbatore,11.0168,76.9558,Solar Power Plant,45,38,Ongoing,2025-11-15,2026-11-02
+162,Tamil Nadu,Coimbatore,11.0168,76.9558,Hospital Development,42,32,Ongoing,2023-10-19,2025-10-29
+163,Tamil Nadu,Coimbatore,11.0168,76.9558,Bridge Construction,47,88,Near Completion,2023-07-06,2024-08-16
+164,Tamil Nadu,Coimbatore,11.0168,76.9558,Smart City Infrastructure,211,64,Ongoing,2025-11-12,2027-08-10
+165,Tamil Nadu,Coimbatore,11.0168,76.9558,Solar Power Plant,316,53,Ongoing,2024-01-09,2026-02-12
+166,Tamil Nadu,Coimbatore,11.0168,76.9558,Smart City Infrastructure,134,70,Ongoing,2024-09-17,2025-06-24
+167,Tamil Nadu,Coimbatore,11.0168,76.9558,Road Construction,354,94,Near Completion,2024-08-27,2026-08-29
+168,Tamil Nadu,Madurai,9.9252,78.1198,Metro Expansion,64,54,Ongoing,2024-03-19,2024-10-08
+169,Tamil Nadu,Madurai,9.9252,78.1198,Road Construction,122,70,Ongoing,2025-11-26,2028-01-26
+170,Tamil Nadu,Madurai,9.9252,78.1198,Water Supply Project,234,25,Ongoing,2023-12-15,2024-08-30
+171,Tamil Nadu,Madurai,9.9252,78.1198,Hospital Development,320,86,Near Completion,2025-10-01,2027-05-27
+172,Tamil Nadu,Madurai,9.9252,78.1198,Hospital Development,319,83,Near Completion,2025-11-21,2027-03-25
+173,Tamil Nadu,Madurai,9.9252,78.1198,Metro Expansion,126,65,Ongoing,2025-09-07,2028-01-29
+174,Tamil Nadu,Madurai,9.9252,78.1198,Hospital Development,22,1,Ongoing,2025-10-12,2027-06-16
+175,Tamil Nadu,Madurai,9.9252,78.1198,Solar Power Plant,398,61,Ongoing,2023-07-03,2024-08-07
+176,Tamil Nadu,Madurai,9.9252,78.1198,School Infrastructure,327,46,Ongoing,2024-04-12,2026-04-10
+177,Tamil Nadu,Madurai,9.9252,78.1198,Water Supply Project,336,29,Ongoing,2025-05-21,2026-01-29
+178,Tamil Nadu,Madurai,9.9252,78.1198,Solar Power Plant,59,38,Ongoing,2024-06-23,2026-10-28
+179,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Solar Power Plant,390,10,Ongoing,2023-12-18,2026-02-20
+180,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Metro Expansion,187,31,Ongoing,2024-01-02,2025-11-27
+181,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Hospital Development,292,16,Ongoing,2024-07-04,2026-10-08
+182,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Metro Expansion,417,30,Ongoing,2023-11-18,2026-02-19
+183,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Hospital Development,234,70,Ongoing,2024-06-30,2026-07-16
+184,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Water Supply Project,469,32,Ongoing,2023-08-15,2025-05-26
+185,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Solar Power Plant,365,80,Near Completion,2023-10-15,2025-08-21
+186,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Metro Expansion,78,66,Ongoing,2023-10-17,2025-12-23
+187,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Road Construction,192,72,Near Completion,2024-04-24,2025-09-29
+188,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Hospital Development,93,67,Ongoing,2024-06-26,2026-09-17
+189,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Road Construction,473,87,Near Completion,2025-01-15,2026-08-09
+190,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Solar Power Plant,495,22,Ongoing,2024-05-13,2025-09-21
+191,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Bridge Construction,444,53,Ongoing,2023-11-25,2024-06-21
+192,Tamil Nadu,Tiruchirappalli,10.7905,78.7047,Water Supply Project,128,59,Ongoing,2023-07-01,2025-02-07
+193,Tamil Nadu,Salem,11.6643,78.146,School Infrastructure,26,72,Near Completion,2025-07-31,2027-10-22
+194,Tamil Nadu,Salem,11.6643,78.146,Water Supply Project,139,100,Completed,2024-03-12,2026-02-25
+195,Tamil Nadu,Salem,11.6643,78.146,Smart City Infrastructure,487,18,Ongoing,2025-02-23,2027-05-21
+196,Tamil Nadu,Salem,11.6643,78.146,Road Construction,226,89,Near Completion,2024-03-21,2026-04-17
+197,Tamil Nadu,Salem,11.6643,78.146,Metro Expansion,126,97,Near Completion,2024-03-03,2025-05-09
+198,Tamil Nadu,Salem,11.6643,78.146,Road Construction,436,94,Near Completion,2023-07-19,2025-06-24
+199,Tamil Nadu,Salem,11.6643,78.146,Smart City Infrastructure,392,48,Ongoing,2025-04-25,2026-09-03
+200,Tamil Nadu,Salem,11.6643,78.146,Hospital Development,457,40,Ongoing,2025-01-30,2027-02-15
+201,Tamil Nadu,Tirunelveli,8.7139,77.7567,Bridge Construction,191,11,Ongoing,2025-06-06,2026-07-29
+202,Tamil Nadu,Tirunelveli,8.7139,77.7567,School Infrastructure,76,43,Ongoing,2025-04-08,2026-12-27
+203,Tamil Nadu,Tirunelveli,8.7139,77.7567,School Infrastructure,354,90,Near Completion,2025-06-24,2027-06-08
+204,Tamil Nadu,Tirunelveli,8.7139,77.7567,Solar Power Plant,360,43,Ongoing,2023-12-08,2024-09-21
+205,Tamil Nadu,Tirunelveli,8.7139,77.7567,Water Supply Project,333,87,Near Completion,2024-01-07,2025-05-25
+206,Tamil Nadu,Tirunelveli,8.7139,77.7567,Water Supply Project,398,87,Near Completion,2025-01-15,2026-08-28
+207,Tamil Nadu,Tirunelveli,8.7139,77.7567,Smart City Infrastructure,69,74,Near Completion,2024-12-15,2026-08-19
+208,Tamil Nadu,Tirunelveli,8.7139,77.7567,Hospital Development,468,61,Ongoing,2025-02-17,2025-12-23
+209,Tamil Nadu,Tirunelveli,8.7139,77.7567,School Infrastructure,497,43,Ongoing,2025-01-12,2025-10-13
+210,Tamil Nadu,Tirunelveli,8.7139,77.7567,Solar Power Plant,443,61,Ongoing,2023-12-15,2024-12-03
+211,Tamil Nadu,Tirunelveli,8.7139,77.7567,Smart City Infrastructure,239,66,Ongoing,2024-08-08,2025-08-26
+212,Tamil Nadu,Tirunelveli,8.7139,77.7567,Road Construction,346,30,Ongoing,2024-02-26,2025-09-02
+213,Tamil Nadu,Tirunelveli,8.7139,77.7567,Metro Expansion,100,24,Ongoing,2024-07-16,2026-04-26
+214,Tamil Nadu,Tirunelveli,8.7139,77.7567,Metro Expansion,146,91,Near Completion,2024-11-04,2025-07-31
+215,Uttar Pradesh,Lucknow,26.8467,80.9462,Smart City Infrastructure,452,89,Near Completion,2024-09-15,2026-09-25
+216,Uttar Pradesh,Lucknow,26.8467,80.9462,Bridge Construction,324,39,Ongoing,2023-07-20,2025-03-30
+217,Uttar Pradesh,Lucknow,26.8467,80.9462,Metro Expansion,342,92,Near Completion,2025-03-28,2026-04-29
+218,Uttar Pradesh,Lucknow,26.8467,80.9462,Road Construction,333,67,Ongoing,2025-02-17,2027-01-13
+219,Uttar Pradesh,Lucknow,26.8467,80.9462,Hospital Development,158,91,Near Completion,2024-02-27,2025-12-17
+220,Uttar Pradesh,Lucknow,26.8467,80.9462,Hospital Development,387,45,Ongoing,2023-12-01,2024-10-12
+221,Uttar Pradesh,Lucknow,26.8467,80.9462,School Infrastructure,278,34,Ongoing,2024-07-09,2025-05-12
+222,Uttar Pradesh,Lucknow,26.8467,80.9462,Road Construction,485,81,Near Completion,2025-07-23,2027-09-17
+223,Uttar Pradesh,Lucknow,26.8467,80.9462,Hospital Development,331,7,Ongoing,2025-07-03,2026-04-10
+224,Uttar Pradesh,Kanpur,26.4499,80.3319,Bridge Construction,232,61,Ongoing,2023-06-25,2024-07-24
+225,Uttar Pradesh,Kanpur,26.4499,80.3319,Road Construction,168,99,Near Completion,2025-07-22,2027-04-21
+226,Uttar Pradesh,Kanpur,26.4499,80.3319,Metro Expansion,269,38,Ongoing,2023-10-16,2026-03-25
+227,Uttar Pradesh,Kanpur,26.4499,80.3319,Hospital Development,445,98,Near Completion,2024-04-26,2025-04-08
+228,Uttar Pradesh,Kanpur,26.4499,80.3319,Metro Expansion,230,17,Ongoing,2023-10-05,2025-06-23
+229,Uttar Pradesh,Kanpur,26.4499,80.3319,Road Construction,296,15,Ongoing,2024-02-02,2025-11-17
+230,Uttar Pradesh,Kanpur,26.4499,80.3319,Water Supply Project,69,55,Ongoing,2025-09-26,2027-12-11
+231,Uttar Pradesh,Varanasi,25.3176,82.9739,Hospital Development,259,98,Near Completion,2025-05-26,2027-04-25
+232,Uttar Pradesh,Varanasi,25.3176,82.9739,School Infrastructure,202,0,Ongoing,2024-12-16,2025-12-04
+233,Uttar Pradesh,Varanasi,25.3176,82.9739,Road Construction,158,91,Near Completion,2025-05-24,2027-07-22
+234,Uttar Pradesh,Varanasi,25.3176,82.9739,Solar Power Plant,227,7,Ongoing,2025-03-05,2027-03-23
+235,Uttar Pradesh,Varanasi,25.3176,82.9739,Smart City Infrastructure,319,4,Ongoing,2024-02-15,2025-05-02
+236,Uttar Pradesh,Varanasi,25.3176,82.9739,Metro Expansion,112,55,Ongoing,2023-09-09,2025-09-15
+237,Uttar Pradesh,Varanasi,25.3176,82.9739,Metro Expansion,306,65,Ongoing,2025-02-27,2026-02-08
+238,Uttar Pradesh,Varanasi,25.3176,82.9739,Bridge Construction,500,74,Near Completion,2024-07-20,2025-02-20
+239,Uttar Pradesh,Varanasi,25.3176,82.9739,Road Construction,130,100,Completed,2023-11-07,2025-08-02
+240,Uttar Pradesh,Varanasi,25.3176,82.9739,Water Supply Project,428,49,Ongoing,2024-02-16,2025-12-17
+241,Uttar Pradesh,Varanasi,25.3176,82.9739,School Infrastructure,106,68,Ongoing,2025-04-10,2026-02-04
+242,Uttar Pradesh,Varanasi,25.3176,82.9739,Solar Power Plant,185,77,Near Completion,2025-05-07,2027-01-18
+243,Uttar Pradesh,Varanasi,25.3176,82.9739,Smart City Infrastructure,44,77,Near Completion,2025-03-20,2027-02-25
+244,Uttar Pradesh,Agra,27.1767,78.0081,Bridge Construction,401,67,Ongoing,2024-11-23,2025-11-26
+245,Uttar Pradesh,Agra,27.1767,78.0081,Solar Power Plant,485,38,Ongoing,2025-10-21,2026-09-28
+246,Uttar Pradesh,Agra,27.1767,78.0081,School Infrastructure,197,95,Near Completion,2024-10-05,2025-07-26
+247,Uttar Pradesh,Agra,27.1767,78.0081,Hospital Development,311,2,Ongoing,2024-04-17,2026-01-09
+248,Uttar Pradesh,Agra,27.1767,78.0081,Road Construction,74,7,Ongoing,2024-12-18,2027-02-22
+249,Uttar Pradesh,Noida,28.5355,77.391,Hospital Development,195,45,Ongoing,2023-08-14,2025-07-23
+250,Uttar Pradesh,Noida,28.5355,77.391,Smart City Infrastructure,385,39,Ongoing,2024-09-06,2026-11-14
+251,Uttar Pradesh,Noida,28.5355,77.391,Solar Power Plant,301,82,Near Completion,2023-07-25,2025-03-26
+252,Uttar Pradesh,Noida,28.5355,77.391,Smart City Infrastructure,167,51,Ongoing,2024-11-23,2025-11-14
+253,Uttar Pradesh,Noida,28.5355,77.391,Road Construction,198,11,Ongoing,2023-11-06,2026-01-26
+254,Uttar Pradesh,Noida,28.5355,77.391,Metro Expansion,405,89,Near Completion,2025-11-26,2027-01-18
+255,Uttar Pradesh,Noida,28.5355,77.391,Road Construction,423,70,Ongoing,2025-08-05,2027-10-04
+256,Uttar Pradesh,Noida,28.5355,77.391,Solar Power Plant,488,82,Near Completion,2025-09-07,2026-06-02
+257,Uttar Pradesh,Noida,28.5355,77.391,Solar Power Plant,108,96,Near Completion,2025-07-12,2027-11-29
+258,Uttar Pradesh,Noida,28.5355,77.391,Road Construction,459,20,Ongoing,2024-05-02,2026-04-19
+259,Uttar Pradesh,Noida,28.5355,77.391,Bridge Construction,157,88,Near Completion,2024-05-10,2026-03-19
+260,Uttar Pradesh,Noida,28.5355,77.391,Hospital Development,492,80,Near Completion,2023-09-20,2025-11-20
+261,Uttar Pradesh,Noida,28.5355,77.391,Water Supply Project,65,51,Ongoing,2024-07-11,2025-05-17
+262,Uttar Pradesh,Noida,28.5355,77.391,Metro Expansion,37,42,Ongoing,2024-02-20,2026-06-08
+263,Uttar Pradesh,Ghaziabad,28.6692,77.4538,Hospital Development,423,95,Near Completion,2025-07-06,2027-05-07
+264,Uttar Pradesh,Ghaziabad,28.6692,77.4538,Metro Expansion,304,26,Ongoing,2024-10-25,2026-08-22
+265,Uttar Pradesh,Ghaziabad,28.6692,77.4538,Smart City Infrastructure,312,96,Near Completion,2025-06-23,2027-10-30
+266,Uttar Pradesh,Ghaziabad,28.6692,77.4538,Hospital Development,327,57,Ongoing,2025-11-06,2028-01-04
+267,Uttar Pradesh,Ghaziabad,28.6692,77.4538,Water Supply Project,219,61,Ongoing,2025-03-26,2025-12-24
+268,Uttar Pradesh,Ghaziabad,28.6692,77.4538,Hospital Development,493,25,Ongoing,2024-12-03,2025-12-13
+269,Uttar Pradesh,Ghaziabad,28.6692,77.4538,Water Supply Project,223,4,Ongoing,2023-09-01,2025-11-13
+270,Uttar Pradesh,Ghaziabad,28.6692,77.4538,Metro Expansion,193,87,Near Completion,2024-06-19,2026-03-17
+271,Uttar Pradesh,Ghaziabad,28.6692,77.4538,Hospital Development,154,8,Ongoing,2024-06-11,2025-07-12
+272,Uttar Pradesh,Meerut,28.9845,77.7064,Smart City Infrastructure,68,55,Ongoing,2024-11-21,2027-03-08
+273,Uttar Pradesh,Meerut,28.9845,77.7064,School Infrastructure,333,49,Ongoing,2025-09-10,2027-10-21
+274,Uttar Pradesh,Meerut,28.9845,77.7064,Metro Expansion,442,76,Near Completion,2025-10-04,2027-10-20
+275,Uttar Pradesh,Meerut,28.9845,77.7064,Water Supply Project,171,92,Near Completion,2024-10-21,2026-06-12
+276,Uttar Pradesh,Meerut,28.9845,77.7064,Hospital Development,406,67,Ongoing,2025-10-26,2026-11-02
+277,Uttar Pradesh,Meerut,28.9845,77.7064,Hospital Development,270,79,Near Completion,2025-01-25,2027-03-13
+278,Uttar Pradesh,Meerut,28.9845,77.7064,Hospital Development,353,54,Ongoing,2025-09-17,2026-11-04
+279,Uttar Pradesh,Meerut,28.9845,77.7064,Smart City Infrastructure,77,62,Ongoing,2025-05-24,2027-01-12
+280,Uttar Pradesh,Prayagraj,25.4358,81.8463,School Infrastructure,306,26,Ongoing,2023-09-07,2025-08-22
+281,Uttar Pradesh,Prayagraj,25.4358,81.8463,Metro Expansion,241,83,Near Completion,2024-03-13,2025-08-05
+282,Uttar Pradesh,Prayagraj,25.4358,81.8463,School Infrastructure,302,86,Near Completion,2025-08-13,2027-01-24
+283,Uttar Pradesh,Prayagraj,25.4358,81.8463,Bridge Construction,497,47,Ongoing,2023-12-29,2025-12-24
+284,Uttar Pradesh,Prayagraj,25.4358,81.8463,Smart City Infrastructure,188,88,Near Completion,2024-04-20,2024-12-17
+285,Uttar Pradesh,Prayagraj,25.4358,81.8463,Bridge Construction,378,1,Ongoing,2025-01-31,2027-03-04
+286,Uttar Pradesh,Prayagraj,25.4358,81.8463,School Infrastructure,246,32,Ongoing,2024-06-08,2026-01-28
+287,Uttar Pradesh,Prayagraj,25.4358,81.8463,Solar Power Plant,95,61,Ongoing,2023-09-14,2025-05-09
+288,Uttar Pradesh,Prayagraj,25.4358,81.8463,Bridge Construction,94,21,Ongoing,2025-07-21,2027-03-25
+289,Rajasthan,Jaipur,26.9124,75.7873,Road Construction,390,10,Ongoing,2023-11-13,2025-08-01
+290,Rajasthan,Jaipur,26.9124,75.7873,School Infrastructure,60,96,Near Completion,2023-06-15,2024-11-04
+291,Rajasthan,Jaipur,26.9124,75.7873,Hospital Development,85,83,Near Completion,2023-10-31,2024-06-07
+292,Rajasthan,Jaipur,26.9124,75.7873,Solar Power Plant,311,0,Ongoing,2025-11-08,2027-09-10
+293,Rajasthan,Jaipur,26.9124,75.7873,Solar Power Plant,230,6,Ongoing,2024-08-31,2025-09-09
+294,Rajasthan,Jaipur,26.9124,75.7873,Solar Power Plant,457,71,Near Completion,2024-12-15,2025-10-01
+295,Rajasthan,Jaipur,26.9124,75.7873,Metro Expansion,245,33,Ongoing,2025-09-18,2027-03-18
+296,Rajasthan,Jaipur,26.9124,75.7873,School Infrastructure,278,54,Ongoing,2023-12-25,2025-06-28
+297,Rajasthan,Jaipur,26.9124,75.7873,School Infrastructure,212,36,Ongoing,2024-02-12,2024-12-22
+298,Rajasthan,Jaipur,26.9124,75.7873,Smart City Infrastructure,125,18,Ongoing,2024-10-23,2025-06-27
+299,Rajasthan,Jaipur,26.9124,75.7873,Solar Power Plant,64,46,Ongoing,2024-03-23,2026-09-08
+300,Rajasthan,Jodhpur,26.2389,73.0243,Hospital Development,375,99,Near Completion,2023-07-04,2024-07-07
+301,Rajasthan,Jodhpur,26.2389,73.0243,Road Construction,458,60,Ongoing,2024-12-08,2026-11-10
+302,Rajasthan,Jodhpur,26.2389,73.0243,School Infrastructure,385,37,Ongoing,2024-07-24,2025-08-11
+303,Rajasthan,Jodhpur,26.2389,73.0243,Water Supply Project,179,77,Near Completion,2024-03-26,2025-02-18
+304,Rajasthan,Jodhpur,26.2389,73.0243,Smart City Infrastructure,207,66,Ongoing,2023-12-04,2024-09-09
+305,Rajasthan,Jodhpur,26.2389,73.0243,Smart City Infrastructure,222,62,Ongoing,2024-08-09,2026-10-17
+306,Rajasthan,Jodhpur,26.2389,73.0243,Smart City Infrastructure,134,98,Near Completion,2024-08-16,2026-11-14
+307,Rajasthan,Jodhpur,26.2389,73.0243,Road Construction,237,48,Ongoing,2024-12-06,2027-04-01
+308,Rajasthan,Jodhpur,26.2389,73.0243,School Infrastructure,132,24,Ongoing,2023-06-18,2025-08-10
+309,Rajasthan,Jodhpur,26.2389,73.0243,Solar Power Plant,43,20,Ongoing,2025-05-29,2027-08-12
+310,Rajasthan,Udaipur,24.5854,73.7125,Bridge Construction,330,73,Near Completion,2025-02-28,2027-08-03
+311,Rajasthan,Udaipur,24.5854,73.7125,Hospital Development,325,13,Ongoing,2025-03-26,2025-10-21
+312,Rajasthan,Udaipur,24.5854,73.7125,School Infrastructure,227,72,Near Completion,2025-09-20,2027-12-31
+313,Rajasthan,Udaipur,24.5854,73.7125,Water Supply Project,302,47,Ongoing,2024-02-11,2025-03-04
+314,Rajasthan,Udaipur,24.5854,73.7125,School Infrastructure,321,74,Near Completion,2023-12-19,2024-10-02
+315,Rajasthan,Udaipur,24.5854,73.7125,School Infrastructure,77,22,Ongoing,2024-07-24,2025-11-16
+316,Rajasthan,Udaipur,24.5854,73.7125,Metro Expansion,447,18,Ongoing,2025-06-14,2027-06-12
+317,Rajasthan,Kota,25.2138,75.8648,School Infrastructure,77,40,Ongoing,2024-10-29,2025-11-05
+318,Rajasthan,Kota,25.2138,75.8648,Metro Expansion,61,24,Ongoing,2025-05-23,2027-05-10
+319,Rajasthan,Kota,25.2138,75.8648,Road Construction,491,94,Near Completion,2023-10-09,2024-06-27
+320,Rajasthan,Kota,25.2138,75.8648,Solar Power Plant,188,19,Ongoing,2023-07-05,2025-04-16
+321,Rajasthan,Kota,25.2138,75.8648,Solar Power Plant,93,56,Ongoing,2023-09-08,2025-03-13
+322,Rajasthan,Kota,25.2138,75.8648,Solar Power Plant,234,48,Ongoing,2024-11-04,2027-01-02
+323,Rajasthan,Kota,25.2138,75.8648,Water Supply Project,317,14,Ongoing,2024-08-18,2027-02-03
+324,Rajasthan,Kota,25.2138,75.8648,Water Supply Project,25,46,Ongoing,2024-01-05,2025-01-03
+325,Rajasthan,Kota,25.2138,75.8648,Metro Expansion,485,43,Ongoing,2024-09-25,2026-10-27
+326,Rajasthan,Kota,25.2138,75.8648,Solar Power Plant,478,39,Ongoing,2025-05-30,2026-07-26
+327,Rajasthan,Kota,25.2138,75.8648,School Infrastructure,485,15,Ongoing,2023-12-24,2025-03-26
+328,Rajasthan,Kota,25.2138,75.8648,Metro Expansion,325,54,Ongoing,2025-04-20,2026-04-24
+329,Rajasthan,Kota,25.2138,75.8648,Road Construction,434,48,Ongoing,2023-12-11,2026-05-24
+330,Rajasthan,Kota,25.2138,75.8648,School Infrastructure,286,92,Near Completion,2023-07-31,2024-12-08
+331,Rajasthan,Ajmer,26.4499,74.6399,School Infrastructure,410,71,Near Completion,2024-05-06,2025-11-23
+332,Rajasthan,Ajmer,26.4499,74.6399,Hospital Development,114,74,Near Completion,2025-01-11,2025-09-26
+333,Rajasthan,Ajmer,26.4499,74.6399,Smart City Infrastructure,342,34,Ongoing,2025-01-11,2026-08-17
+334,Rajasthan,Ajmer,26.4499,74.6399,Road Construction,316,42,Ongoing,2024-03-27,2025-05-21
+335,Rajasthan,Ajmer,26.4499,74.6399,Water Supply Project,266,38,Ongoing,2025-11-08,2027-03-17
+336,Rajasthan,Ajmer,26.4499,74.6399,Water Supply Project,117,91,Near Completion,2025-04-16,2027-01-12
+337,Rajasthan,Ajmer,26.4499,74.6399,Bridge Construction,215,3,Ongoing,2024-11-28,2027-04-30
+338,Rajasthan,Ajmer,26.4499,74.6399,Road Construction,202,51,Ongoing,2023-06-18,2024-01-20
+339,Rajasthan,Ajmer,26.4499,74.6399,Solar Power Plant,442,82,Near Completion,2025-01-01,2026-05-10
+340,Rajasthan,Ajmer,26.4499,74.6399,Water Supply Project,375,85,Near Completion,2024-03-06,2024-09-23
+341,Rajasthan,Ajmer,26.4499,74.6399,Solar Power Plant,142,21,Ongoing,2024-04-29,2026-03-03
+342,Rajasthan,Ajmer,26.4499,74.6399,Water Supply Project,31,38,Ongoing,2024-09-02,2025-08-21
+343,Rajasthan,Ajmer,26.4499,74.6399,Bridge Construction,183,70,Ongoing,2025-03-15,2025-12-04
+344,Rajasthan,Bikaner,28.0229,73.3119,Metro Expansion,332,100,Completed,2024-03-30,2026-05-27
+345,Rajasthan,Bikaner,28.0229,73.3119,Metro Expansion,189,53,Ongoing,2024-02-16,2024-09-15
+346,Rajasthan,Bikaner,28.0229,73.3119,Road Construction,232,85,Near Completion,2025-11-09,2026-09-21
+347,Rajasthan,Bikaner,28.0229,73.3119,Hospital Development,40,33,Ongoing,2025-02-07,2027-06-30
+348,Rajasthan,Bikaner,28.0229,73.3119,Water Supply Project,93,48,Ongoing,2025-03-13,2027-04-20
+349,Rajasthan,Bikaner,28.0229,73.3119,Smart City Infrastructure,91,44,Ongoing,2025-04-02,2026-08-25
+350,Rajasthan,Bikaner,28.0229,73.3119,Water Supply Project,383,23,Ongoing,2024-04-06,2026-06-05
+351,Gujarat,Ahmedabad,23.0225,72.5714,Hospital Development,157,97,Near Completion,2025-07-13,2026-08-02
+352,Gujarat,Ahmedabad,23.0225,72.5714,Smart City Infrastructure,227,29,Ongoing,2024-11-21,2027-02-01
+353,Gujarat,Ahmedabad,23.0225,72.5714,Solar Power Plant,277,27,Ongoing,2024-10-18,2026-10-31
+354,Gujarat,Ahmedabad,23.0225,72.5714,Smart City Infrastructure,231,61,Ongoing,2025-10-17,2026-08-31
+355,Gujarat,Ahmedabad,23.0225,72.5714,Water Supply Project,490,84,Near Completion,2024-12-21,2025-11-05
+356,Gujarat,Ahmedabad,23.0225,72.5714,Hospital Development,385,78,Near Completion,2025-03-01,2027-06-11
+357,Gujarat,Ahmedabad,23.0225,72.5714,Bridge Construction,98,12,Ongoing,2025-11-11,2027-08-18
+358,Gujarat,Ahmedabad,23.0225,72.5714,Water Supply Project,159,95,Near Completion,2023-06-16,2025-05-10
+359,Gujarat,Ahmedabad,23.0225,72.5714,Metro Expansion,459,94,Near Completion,2025-08-05,2027-11-21
+360,Gujarat,Ahmedabad,23.0225,72.5714,Smart City Infrastructure,206,29,Ongoing,2024-08-01,2025-07-23
+361,Gujarat,Ahmedabad,23.0225,72.5714,Bridge Construction,119,0,Ongoing,2025-04-24,2026-03-01
+362,Gujarat,Ahmedabad,23.0225,72.5714,Water Supply Project,64,16,Ongoing,2023-11-21,2024-07-14
+363,Gujarat,Ahmedabad,23.0225,72.5714,Hospital Development,40,57,Ongoing,2024-02-25,2026-01-27
+364,Gujarat,Ahmedabad,23.0225,72.5714,Bridge Construction,67,72,Near Completion,2025-06-22,2027-11-29
+365,Gujarat,Surat,21.1702,72.8311,School Infrastructure,471,56,Ongoing,2024-11-06,2026-11-11
+366,Gujarat,Surat,21.1702,72.8311,Solar Power Plant,161,69,Ongoing,2024-02-01,2024-09-12
+367,Gujarat,Surat,21.1702,72.8311,Hospital Development,386,6,Ongoing,2025-07-26,2027-11-28
+368,Gujarat,Surat,21.1702,72.8311,Road Construction,119,21,Ongoing,2023-11-12,2026-01-06
+369,Gujarat,Surat,21.1702,72.8311,Bridge Construction,211,9,Ongoing,2023-12-11,2024-09-11
+370,Gujarat,Surat,21.1702,72.8311,School Infrastructure,73,55,Ongoing,2025-06-27,2027-06-24
+371,Gujarat,Surat,21.1702,72.8311,Road Construction,43,70,Ongoing,2024-07-19,2025-07-04
+372,Gujarat,Surat,21.1702,72.8311,Metro Expansion,161,4,Ongoing,2024-03-01,2025-08-11
+373,Gujarat,Surat,21.1702,72.8311,School Infrastructure,268,0,Ongoing,2025-06-24,2027-08-19
+374,Gujarat,Surat,21.1702,72.8311,Road Construction,121,21,Ongoing,2023-12-30,2026-03-20
+375,Gujarat,Surat,21.1702,72.8311,School Infrastructure,294,54,Ongoing,2024-05-28,2026-06-21
+376,Gujarat,Surat,21.1702,72.8311,Smart City Infrastructure,287,60,Ongoing,2024-01-05,2026-04-16
+377,Gujarat,Vadodara,22.3072,73.1812,Hospital Development,424,41,Ongoing,2024-07-07,2026-08-14
+378,Gujarat,Vadodara,22.3072,73.1812,Smart City Infrastructure,268,85,Near Completion,2024-12-16,2026-06-07
+379,Gujarat,Vadodara,22.3072,73.1812,Bridge Construction,194,41,Ongoing,2025-04-23,2027-01-18
+380,Gujarat,Vadodara,22.3072,73.1812,Smart City Infrastructure,314,27,Ongoing,2024-05-24,2026-02-07
+381,Gujarat,Vadodara,22.3072,73.1812,Smart City Infrastructure,166,51,Ongoing,2025-03-15,2026-08-01
+382,Gujarat,Rajkot,22.3039,70.8022,School Infrastructure,255,57,Ongoing,2024-02-27,2024-10-21
+383,Gujarat,Rajkot,22.3039,70.8022,Metro Expansion,126,1,Ongoing,2023-08-02,2024-07-05
+384,Gujarat,Rajkot,22.3039,70.8022,Metro Expansion,223,2,Ongoing,2025-07-29,2027-06-30
+385,Gujarat,Rajkot,22.3039,70.8022,Metro Expansion,223,68,Ongoing,2024-04-03,2025-08-26
+386,Gujarat,Rajkot,22.3039,70.8022,Bridge Construction,403,86,Near Completion,2025-09-02,2027-01-01
+387,Gujarat,Rajkot,22.3039,70.8022,Metro Expansion,378,34,Ongoing,2023-09-29,2024-05-12
+388,Gujarat,Rajkot,22.3039,70.8022,School Infrastructure,26,18,Ongoing,2025-04-14,2027-07-31
+389,Gujarat,Rajkot,22.3039,70.8022,Solar Power Plant,495,96,Near Completion,2024-12-24,2026-02-23
+390,Gujarat,Bhavnagar,21.7645,72.1519,Road Construction,130,24,Ongoing,2024-02-22,2026-02-15
+391,Gujarat,Bhavnagar,21.7645,72.1519,Smart City Infrastructure,107,14,Ongoing,2025-01-14,2025-11-23
+392,Gujarat,Bhavnagar,21.7645,72.1519,School Infrastructure,474,17,Ongoing,2023-06-23,2025-07-31
+393,Gujarat,Bhavnagar,21.7645,72.1519,School Infrastructure,146,59,Ongoing,2023-07-27,2024-07-03
+394,Gujarat,Bhavnagar,21.7645,72.1519,Bridge Construction,90,29,Ongoing,2025-03-08,2027-01-25
+395,Gujarat,Bhavnagar,21.7645,72.1519,Road Construction,461,45,Ongoing,2025-09-07,2027-01-20
+396,Gujarat,Bhavnagar,21.7645,72.1519,Metro Expansion,174,8,Ongoing,2024-09-16,2026-03-19
+397,Gujarat,Bhavnagar,21.7645,72.1519,Smart City Infrastructure,351,95,Near Completion,2025-01-02,2026-12-05
+398,Gujarat,Bhavnagar,21.7645,72.1519,Smart City Infrastructure,225,44,Ongoing,2023-11-06,2024-06-16
+399,West Bengal,Kolkata,22.5726,88.3639,Solar Power Plant,248,61,Ongoing,2025-02-25,2026-09-19
+400,West Bengal,Kolkata,22.5726,88.3639,Bridge Construction,109,4,Ongoing,2025-01-16,2027-04-16
+401,West Bengal,Kolkata,22.5726,88.3639,School Infrastructure,78,78,Near Completion,2025-07-23,2026-05-04
+402,West Bengal,Kolkata,22.5726,88.3639,Water Supply Project,41,18,Ongoing,2023-11-01,2025-12-15
+403,West Bengal,Kolkata,22.5726,88.3639,Bridge Construction,280,3,Ongoing,2024-05-17,2026-07-29
+404,West Bengal,Kolkata,22.5726,88.3639,Hospital Development,138,74,Near Completion,2024-04-05,2026-04-11
+405,West Bengal,Kolkata,22.5726,88.3639,Metro Expansion,485,82,Near Completion,2024-09-01,2026-06-27
+406,West Bengal,Kolkata,22.5726,88.3639,Road Construction,406,98,Near Completion,2023-12-06,2025-04-11
+407,West Bengal,Kolkata,22.5726,88.3639,Solar Power Plant,215,83,Near Completion,2024-05-05,2026-06-14
+408,West Bengal,Kolkata,22.5726,88.3639,Metro Expansion,90,72,Near Completion,2024-06-12,2025-02-02
+409,West Bengal,Kolkata,22.5726,88.3639,Bridge Construction,53,67,Ongoing,2024-06-07,2025-01-15
+410,West Bengal,Kolkata,22.5726,88.3639,Metro Expansion,140,27,Ongoing,2025-05-15,2027-08-14
+411,West Bengal,Kolkata,22.5726,88.3639,Metro Expansion,272,98,Near Completion,2024-03-04,2024-11-28
+412,West Bengal,Kolkata,22.5726,88.3639,School Infrastructure,193,9,Ongoing,2024-11-08,2026-10-31
+413,West Bengal,Kolkata,22.5726,88.3639,Hospital Development,436,25,Ongoing,2024-07-30,2026-08-08
+414,West Bengal,Howrah,22.5958,88.2636,Solar Power Plant,380,85,Near Completion,2025-04-17,2027-04-19
+415,West Bengal,Howrah,22.5958,88.2636,Road Construction,454,34,Ongoing,2025-02-09,2026-01-26
+416,West Bengal,Howrah,22.5958,88.2636,School Infrastructure,141,56,Ongoing,2024-12-09,2026-08-12
+417,West Bengal,Howrah,22.5958,88.2636,Bridge Construction,230,3,Ongoing,2025-02-27,2027-03-20
+418,West Bengal,Howrah,22.5958,88.2636,Bridge Construction,461,40,Ongoing,2024-10-08,2025-05-19
+419,West Bengal,Howrah,22.5958,88.2636,Bridge Construction,262,70,Ongoing,2023-09-05,2025-11-06
+420,West Bengal,Howrah,22.5958,88.2636,Solar Power Plant,202,40,Ongoing,2025-05-14,2027-03-25
+421,West Bengal,Howrah,22.5958,88.2636,Solar Power Plant,288,1,Ongoing,2024-09-20,2027-01-20
+422,West Bengal,Howrah,22.5958,88.2636,Bridge Construction,274,64,Ongoing,2024-06-02,2026-02-04
+423,West Bengal,Howrah,22.5958,88.2636,Bridge Construction,299,0,Ongoing,2024-12-12,2026-04-26
+424,West Bengal,Durgapur,23.5204,87.3119,Hospital Development,276,29,Ongoing,2024-04-24,2026-04-03
+425,West Bengal,Durgapur,23.5204,87.3119,School Infrastructure,292,38,Ongoing,2025-05-19,2026-06-30
+426,West Bengal,Durgapur,23.5204,87.3119,Bridge Construction,462,4,Ongoing,2024-09-02,2025-12-10
+427,West Bengal,Durgapur,23.5204,87.3119,School Infrastructure,69,93,Near Completion,2024-04-18,2026-03-20
+428,West Bengal,Durgapur,23.5204,87.3119,Solar Power Plant,403,58,Ongoing,2024-12-20,2027-02-11
+429,West Bengal,Durgapur,23.5204,87.3119,Bridge Construction,352,99,Near Completion,2024-10-30,2026-07-12
+430,West Bengal,Durgapur,23.5204,87.3119,Smart City Infrastructure,60,20,Ongoing,2024-02-18,2024-09-17
+431,West Bengal,Durgapur,23.5204,87.3119,Solar Power Plant,231,46,Ongoing,2025-05-27,2026-04-20
+432,West Bengal,Durgapur,23.5204,87.3119,Road Construction,20,92,Near Completion,2025-03-27,2026-11-18
+433,West Bengal,Durgapur,23.5204,87.3119,Hospital Development,462,17,Ongoing,2025-05-26,2027-07-20
+434,West Bengal,Durgapur,23.5204,87.3119,Solar Power Plant,320,7,Ongoing,2024-08-30,2025-11-02
+435,West Bengal,Durgapur,23.5204,87.3119,Hospital Development,487,43,Ongoing,2024-09-14,2025-04-26
+436,West Bengal,Durgapur,23.5204,87.3119,Bridge Construction,361,74,Near Completion,2025-09-06,2028-01-20
+437,West Bengal,Siliguri,26.7271,88.3953,Road Construction,311,77,Near Completion,2024-05-07,2024-12-20
+438,West Bengal,Siliguri,26.7271,88.3953,Hospital Development,30,1,Ongoing,2025-09-03,2027-04-21
+439,West Bengal,Siliguri,26.7271,88.3953,Water Supply Project,306,49,Ongoing,2024-11-20,2025-10-15
+440,West Bengal,Siliguri,26.7271,88.3953,Road Construction,430,99,Near Completion,2024-03-04,2025-06-29
+441,West Bengal,Siliguri,26.7271,88.3953,Hospital Development,294,72,Near Completion,2025-08-15,2026-03-04
+442,West Bengal,Siliguri,26.7271,88.3953,Water Supply Project,392,34,Ongoing,2023-11-03,2025-05-07
+443,West Bengal,Asansol,23.6739,86.9524,Solar Power Plant,130,34,Ongoing,2025-01-04,2025-11-19
+444,West Bengal,Asansol,23.6739,86.9524,Bridge Construction,62,46,Ongoing,2025-06-21,2026-12-19
+445,West Bengal,Asansol,23.6739,86.9524,Water Supply Project,412,17,Ongoing,2025-07-18,2026-12-18
+446,West Bengal,Asansol,23.6739,86.9524,Bridge Construction,169,74,Near Completion,2024-08-23,2025-07-18
+447,West Bengal,Asansol,23.6739,86.9524,Bridge Construction,425,85,Near Completion,2024-12-05,2025-08-05
+448,West Bengal,Asansol,23.6739,86.9524,Road Construction,310,91,Near Completion,2024-12-14,2025-10-31
+449,West Bengal,Asansol,23.6739,86.9524,Hospital Development,276,83,Near Completion,2023-10-02,2026-02-26
+450,West Bengal,Asansol,23.6739,86.9524,Hospital Development,217,58,Ongoing,2025-02-27,2027-05-01
+451,West Bengal,Asansol,23.6739,86.9524,Hospital Development,343,43,Ongoing,2024-06-19,2026-04-13
+452,West Bengal,Asansol,23.6739,86.9524,Bridge Construction,75,46,Ongoing,2024-01-06,2026-05-27
+453,West Bengal,Asansol,23.6739,86.9524,School Infrastructure,344,87,Near Completion,2025-05-26,2026-12-17
+454,Telangana,Hyderabad,17.385,78.4867,Road Construction,184,92,Near Completion,2024-10-18,2026-05-16
+455,Telangana,Hyderabad,17.385,78.4867,Solar Power Plant,148,26,Ongoing,2025-10-07,2027-04-04
+456,Telangana,Hyderabad,17.385,78.4867,Bridge Construction,385,51,Ongoing,2023-09-17,2026-03-03
+457,Telangana,Hyderabad,17.385,78.4867,Road Construction,399,86,Near Completion,2025-03-14,2026-10-29
+458,Telangana,Hyderabad,17.385,78.4867,School Infrastructure,380,53,Ongoing,2023-09-24,2025-01-10
+459,Telangana,Hyderabad,17.385,78.4867,Road Construction,375,31,Ongoing,2024-05-25,2026-03-22
+460,Telangana,Hyderabad,17.385,78.4867,Smart City Infrastructure,390,12,Ongoing,2025-07-29,2027-09-01
+461,Telangana,Hyderabad,17.385,78.4867,Water Supply Project,187,79,Near Completion,2025-08-28,2026-05-16
+462,Telangana,Hyderabad,17.385,78.4867,Metro Expansion,135,54,Ongoing,2023-09-04,2025-12-01
+463,Telangana,Hyderabad,17.385,78.4867,Metro Expansion,407,84,Near Completion,2023-08-11,2025-06-01
+464,Telangana,Hyderabad,17.385,78.4867,Hospital Development,64,79,Near Completion,2024-01-24,2024-12-01
+465,Telangana,Warangal,17.9689,79.5941,Hospital Development,310,24,Ongoing,2023-11-02,2024-11-16
+466,Telangana,Warangal,17.9689,79.5941,Road Construction,245,27,Ongoing,2024-05-23,2025-10-04
+467,Telangana,Warangal,17.9689,79.5941,Road Construction,335,25,Ongoing,2024-04-24,2025-12-06
+468,Telangana,Warangal,17.9689,79.5941,Solar Power Plant,392,58,Ongoing,2025-07-07,2026-05-24
+469,Telangana,Warangal,17.9689,79.5941,Solar Power Plant,222,56,Ongoing,2024-05-25,2026-10-08
+470,Telangana,Warangal,17.9689,79.5941,Road Construction,63,52,Ongoing,2023-07-21,2024-03-06
+471,Telangana,Warangal,17.9689,79.5941,Hospital Development,57,60,Ongoing,2024-02-17,2025-09-21
+472,Telangana,Warangal,17.9689,79.5941,Solar Power Plant,224,85,Near Completion,2024-01-16,2026-02-27
+473,Telangana,Warangal,17.9689,79.5941,Water Supply Project,247,95,Near Completion,2025-09-13,2027-04-08
+474,Telangana,Warangal,17.9689,79.5941,Water Supply Project,431,82,Near Completion,2025-02-06,2026-03-17
+475,Telangana,Warangal,17.9689,79.5941,Smart City Infrastructure,292,95,Near Completion,2023-09-18,2025-02-08
+476,Telangana,Warangal,17.9689,79.5941,School Infrastructure,484,63,Ongoing,2025-01-15,2025-12-12
+477,Telangana,Warangal,17.9689,79.5941,Water Supply Project,181,55,Ongoing,2025-02-21,2026-05-10
+478,Telangana,Karimnagar,18.4386,79.1288,Water Supply Project,319,98,Near Completion,2023-10-02,2024-07-09
+479,Telangana,Karimnagar,18.4386,79.1288,Road Construction,38,10,Ongoing,2024-12-31,2025-10-31
+480,Telangana,Karimnagar,18.4386,79.1288,Smart City Infrastructure,447,42,Ongoing,2024-01-11,2025-08-23
+481,Telangana,Karimnagar,18.4386,79.1288,Metro Expansion,181,92,Near Completion,2025-09-19,2027-10-27
+482,Telangana,Karimnagar,18.4386,79.1288,Bridge Construction,333,2,Ongoing,2025-07-31,2028-01-11
+483,Telangana,Karimnagar,18.4386,79.1288,Water Supply Project,107,3,Ongoing,2025-01-03,2026-11-01
+484,Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Road Construction,423,35,Ongoing,2025-03-26,2027-04-08
+485,Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Solar Power Plant,93,92,Near Completion,2023-06-20,2024-07-05
+486,Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Bridge Construction,397,69,Ongoing,2023-07-28,2025-05-22
+487,Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Smart City Infrastructure,244,84,Near Completion,2025-11-19,2026-09-30
+488,Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Water Supply Project,404,4,Ongoing,2025-10-27,2026-06-20
+489,Andhra Pradesh,Visakhapatnam,17.6868,83.2185,School Infrastructure,120,99,Near Completion,2024-10-24,2026-11-09
+490,Andhra Pradesh,Visakhapatnam,17.6868,83.2185,Metro Expansion,381,49,Ongoing,2024-01-26,2026-06-17
+491,Andhra Pradesh,Vijayawada,16.5062,80.648,Hospital Development,225,27,Ongoing,2024-01-22,2026-05-24
+492,Andhra Pradesh,Vijayawada,16.5062,80.648,School Infrastructure,432,38,Ongoing,2024-08-01,2026-08-18
+493,Andhra Pradesh,Vijayawada,16.5062,80.648,Water Supply Project,78,45,Ongoing,2023-08-27,2025-05-27
+494,Andhra Pradesh,Vijayawada,16.5062,80.648,Hospital Development,140,74,Near Completion,2023-10-12,2025-12-31
+495,Andhra Pradesh,Vijayawada,16.5062,80.648,Hospital Development,209,20,Ongoing,2025-08-18,2027-09-03
+496,Andhra Pradesh,Vijayawada,16.5062,80.648,Metro Expansion,166,84,Near Completion,2025-08-29,2026-09-29
+497,Andhra Pradesh,Vijayawada,16.5062,80.648,Road Construction,242,31,Ongoing,2023-06-30,2024-04-21
+498,Andhra Pradesh,Vijayawada,16.5062,80.648,Solar Power Plant,405,2,Ongoing,2025-10-10,2026-07-29
+499,Andhra Pradesh,Vijayawada,16.5062,80.648,Bridge Construction,263,66,Ongoing,2025-06-21,2027-04-06
+500,Andhra Pradesh,Vijayawada,16.5062,80.648,Hospital Development,448,55,Ongoing,2024-07-01,2026-03-01
+501,Andhra Pradesh,Vijayawada,16.5062,80.648,Water Supply Project,226,27,Ongoing,2024-12-18,2027-02-19
+502,Andhra Pradesh,Tirupati,13.6288,79.4192,Water Supply Project,214,30,Ongoing,2025-04-24,2027-03-19
+503,Andhra Pradesh,Tirupati,13.6288,79.4192,Bridge Construction,294,20,Ongoing,2024-12-26,2026-10-15
+504,Andhra Pradesh,Tirupati,13.6288,79.4192,Water Supply Project,154,20,Ongoing,2024-12-16,2025-11-25
+505,Andhra Pradesh,Tirupati,13.6288,79.4192,Road Construction,203,57,Ongoing,2024-05-30,2025-12-04
+506,Andhra Pradesh,Tirupati,13.6288,79.4192,Hospital Development,221,39,Ongoing,2025-09-12,2027-07-07
+507,Andhra Pradesh,Tirupati,13.6288,79.4192,Metro Expansion,422,67,Ongoing,2024-06-10,2026-09-25
+508,Andhra Pradesh,Tirupati,13.6288,79.4192,Metro Expansion,383,66,Ongoing,2025-03-30,2027-07-25
+509,Andhra Pradesh,Tirupati,13.6288,79.4192,Smart City Infrastructure,407,19,Ongoing,2024-01-05,2025-11-24
+510,Andhra Pradesh,Tirupati,13.6288,79.4192,Bridge Construction,326,93,Near Completion,2023-07-23,2024-12-28
+511,Andhra Pradesh,Tirupati,13.6288,79.4192,Metro Expansion,38,24,Ongoing,2023-06-18,2024-03-21
+512,Andhra Pradesh,Tirupati,13.6288,79.4192,Bridge Construction,162,55,Ongoing,2025-03-12,2025-11-29
+513,Andhra Pradesh,Tirupati,13.6288,79.4192,Bridge Construction,251,90,Near Completion,2025-05-03,2027-09-22
+514,Andhra Pradesh,Tirupati,13.6288,79.4192,Solar Power Plant,41,65,Ongoing,2024-07-15,2026-10-09
+515,Andhra Pradesh,Tirupati,13.6288,79.4192,Smart City Infrastructure,450,28,Ongoing,2025-06-08,2027-02-24
+516,Andhra Pradesh,Tirupati,13.6288,79.4192,School Infrastructure,43,30,Ongoing,2025-07-03,2027-06-14
+517,Andhra Pradesh,Guntur,16.3067,80.4365,Hospital Development,22,68,Ongoing,2023-12-15,2026-04-07
+518,Andhra Pradesh,Guntur,16.3067,80.4365,Hospital Development,160,3,Ongoing,2025-09-15,2026-09-15
+519,Andhra Pradesh,Guntur,16.3067,80.4365,Bridge Construction,265,52,Ongoing,2024-05-14,2025-07-16
+520,Andhra Pradesh,Guntur,16.3067,80.4365,Smart City Infrastructure,206,15,Ongoing,2024-09-27,2026-11-06
+521,Andhra Pradesh,Guntur,16.3067,80.4365,Bridge Construction,444,27,Ongoing,2024-04-23,2025-05-31
+522,Andhra Pradesh,Guntur,16.3067,80.4365,Water Supply Project,414,85,Near Completion,2023-06-14,2024-04-14
+523,Kerala,Kochi,9.9312,76.2673,Smart City Infrastructure,224,36,Ongoing,2024-04-24,2025-03-17
+524,Kerala,Kochi,9.9312,76.2673,Metro Expansion,333,70,Ongoing,2024-07-30,2026-06-27
+525,Kerala,Kochi,9.9312,76.2673,Smart City Infrastructure,474,71,Near Completion,2024-07-08,2026-10-29
+526,Kerala,Kochi,9.9312,76.2673,Road Construction,39,38,Ongoing,2024-07-25,2025-09-26
+527,Kerala,Kochi,9.9312,76.2673,Hospital Development,287,53,Ongoing,2025-10-15,2028-03-06
+528,Kerala,Kochi,9.9312,76.2673,Bridge Construction,358,5,Ongoing,2024-04-26,2025-07-16
+529,Kerala,Kochi,9.9312,76.2673,Solar Power Plant,160,88,Near Completion,2024-07-20,2025-09-13
+530,Kerala,Kochi,9.9312,76.2673,Road Construction,355,73,Near Completion,2023-07-21,2025-03-10
+531,Kerala,Thiruvananthapuram,8.5241,76.9366,School Infrastructure,448,91,Near Completion,2025-08-19,2028-01-10
+532,Kerala,Thiruvananthapuram,8.5241,76.9366,Smart City Infrastructure,387,64,Ongoing,2025-10-23,2026-10-02
+533,Kerala,Thiruvananthapuram,8.5241,76.9366,Solar Power Plant,27,74,Near Completion,2024-05-04,2026-02-05
+534,Kerala,Thiruvananthapuram,8.5241,76.9366,Solar Power Plant,143,29,Ongoing,2025-06-04,2027-10-28
+535,Kerala,Thiruvananthapuram,8.5241,76.9366,Solar Power Plant,103,49,Ongoing,2024-07-22,2025-12-10
+536,Kerala,Thiruvananthapuram,8.5241,76.9366,Water Supply Project,428,32,Ongoing,2023-12-17,2024-09-30
+537,Kerala,Kozhikode,11.2588,75.7804,Hospital Development,295,94,Near Completion,2024-05-13,2026-06-28
+538,Kerala,Kozhikode,11.2588,75.7804,School Infrastructure,329,70,Ongoing,2023-10-09,2025-10-13
+539,Kerala,Kozhikode,11.2588,75.7804,Hospital Development,100,97,Near Completion,2025-06-24,2026-08-25
+540,Kerala,Kozhikode,11.2588,75.7804,Smart City Infrastructure,265,61,Ongoing,2024-02-01,2026-06-26
+541,Kerala,Kozhikode,11.2588,75.7804,Smart City Infrastructure,449,64,Ongoing,2025-03-25,2027-02-11
+542,Kerala,Kozhikode,11.2588,75.7804,Hospital Development,117,69,Ongoing,2024-07-27,2025-03-07
+543,Kerala,Kozhikode,11.2588,75.7804,Hospital Development,133,35,Ongoing,2023-08-19,2024-06-20
+544,Kerala,Kozhikode,11.2588,75.7804,School Infrastructure,242,68,Ongoing,2024-01-15,2025-09-08
+545,Kerala,Kozhikode,11.2588,75.7804,Water Supply Project,485,47,Ongoing,2025-08-09,2027-12-20
+546,Kerala,Kozhikode,11.2588,75.7804,Hospital Development,70,4,Ongoing,2024-07-19,2026-07-23
+547,Kerala,Kozhikode,11.2588,75.7804,Bridge Construction,273,53,Ongoing,2025-06-11,2027-01-08
+548,Kerala,Kozhikode,11.2588,75.7804,Metro Expansion,417,3,Ongoing,2023-12-15,2025-02-27
+549,Kerala,Kozhikode,11.2588,75.7804,Road Construction,381,86,Near Completion,2023-07-31,2025-01-11
+550,Kerala,Kozhikode,11.2588,75.7804,Water Supply Project,120,2,Ongoing,2025-08-14,2027-04-16
+551,Kerala,Kozhikode,11.2588,75.7804,Road Construction,29,48,Ongoing,2024-01-06,2025-05-10
+552,Kerala,Thrissur,10.5276,76.2144,Bridge Construction,324,93,Near Completion,2025-10-10,2028-01-10
+553,Kerala,Thrissur,10.5276,76.2144,School Infrastructure,447,70,Ongoing,2025-04-04,2027-04-19
+554,Kerala,Thrissur,10.5276,76.2144,School Infrastructure,121,18,Ongoing,2024-05-18,2025-02-05
+555,Kerala,Thrissur,10.5276,76.2144,Smart City Infrastructure,104,41,Ongoing,2025-03-20,2027-07-15
+556,Kerala,Thrissur,10.5276,76.2144,Metro Expansion,194,7,Ongoing,2025-07-08,2026-02-12
+557,Kerala,Thrissur,10.5276,76.2144,Hospital Development,154,90,Near Completion,2023-12-27,2024-08-09
+558,Kerala,Thrissur,10.5276,76.2144,Road Construction,436,71,Near Completion,2025-06-28,2026-08-06
+559,Bihar,Patna,25.5941,85.1376,School Infrastructure,456,1,Ongoing,2024-08-23,2026-09-14
+560,Bihar,Patna,25.5941,85.1376,Hospital Development,401,17,Ongoing,2023-11-03,2025-11-23
+561,Bihar,Patna,25.5941,85.1376,Smart City Infrastructure,432,50,Ongoing,2025-10-14,2026-09-21
+562,Bihar,Patna,25.5941,85.1376,Smart City Infrastructure,432,94,Near Completion,2024-06-08,2025-05-20
+563,Bihar,Patna,25.5941,85.1376,Bridge Construction,465,97,Near Completion,2025-10-30,2027-04-29
+564,Bihar,Gaya,24.7914,85.0002,Solar Power Plant,243,62,Ongoing,2023-07-15,2025-02-07
+565,Bihar,Gaya,24.7914,85.0002,Solar Power Plant,66,24,Ongoing,2024-01-30,2025-12-10
+566,Bihar,Gaya,24.7914,85.0002,Road Construction,254,13,Ongoing,2023-08-30,2025-09-07
+567,Bihar,Gaya,24.7914,85.0002,Hospital Development,364,97,Near Completion,2024-01-21,2025-12-26
+568,Bihar,Gaya,24.7914,85.0002,Bridge Construction,246,43,Ongoing,2025-05-25,2027-06-23
+569,Bihar,Gaya,24.7914,85.0002,Metro Expansion,49,99,Near Completion,2023-12-21,2026-02-02
+570,Bihar,Gaya,24.7914,85.0002,Hospital Development,403,55,Ongoing,2025-09-28,2026-06-09
+571,Bihar,Gaya,24.7914,85.0002,Smart City Infrastructure,90,0,Ongoing,2025-04-21,2025-12-02
+572,Bihar,Gaya,24.7914,85.0002,Solar Power Plant,58,62,Ongoing,2024-05-21,2025-08-28
+573,Bihar,Gaya,24.7914,85.0002,Solar Power Plant,188,50,Ongoing,2024-02-25,2025-03-20
+574,Bihar,Gaya,24.7914,85.0002,Metro Expansion,487,8,Ongoing,2024-10-22,2026-06-14
+575,Bihar,Muzaffarpur,26.1209,85.3647,Solar Power Plant,386,49,Ongoing,2025-03-15,2027-03-09
+576,Bihar,Muzaffarpur,26.1209,85.3647,Bridge Construction,410,81,Near Completion,2025-06-25,2026-04-15
+577,Bihar,Muzaffarpur,26.1209,85.3647,Solar Power Plant,272,0,Ongoing,2025-11-28,2028-02-12
+578,Bihar,Muzaffarpur,26.1209,85.3647,Bridge Construction,268,9,Ongoing,2025-03-29,2025-10-24
+579,Bihar,Muzaffarpur,26.1209,85.3647,Smart City Infrastructure,208,40,Ongoing,2023-09-22,2025-01-14
+580,Bihar,Muzaffarpur,26.1209,85.3647,Metro Expansion,393,85,Near Completion,2025-01-15,2026-10-25
+581,Bihar,Muzaffarpur,26.1209,85.3647,Smart City Infrastructure,495,75,Near Completion,2023-11-07,2025-10-04
+582,Bihar,Muzaffarpur,26.1209,85.3647,School Infrastructure,114,20,Ongoing,2023-11-08,2025-02-20
+583,Bihar,Muzaffarpur,26.1209,85.3647,Metro Expansion,290,79,Near Completion,2024-10-03,2026-09-09
+584,Bihar,Muzaffarpur,26.1209,85.3647,School Infrastructure,110,53,Ongoing,2023-11-04,2024-05-30
+585,Bihar,Muzaffarpur,26.1209,85.3647,Metro Expansion,309,82,Near Completion,2024-06-19,2026-05-08
+586,Bihar,Muzaffarpur,26.1209,85.3647,Road Construction,152,10,Ongoing,2023-07-01,2025-10-10
+587,Bihar,Muzaffarpur,26.1209,85.3647,Road Construction,344,1,Ongoing,2024-02-26,2026-03-31
+588,Bihar,Muzaffarpur,26.1209,85.3647,School Infrastructure,377,95,Near Completion,2023-09-29,2025-09-28
+589,Madhya Pradesh,Bhopal,23.2599,77.4126,Solar Power Plant,216,50,Ongoing,2024-04-03,2025-07-16
+590,Madhya Pradesh,Bhopal,23.2599,77.4126,Metro Expansion,106,98,Near Completion,2024-05-31,2025-06-30
+591,Madhya Pradesh,Bhopal,23.2599,77.4126,Hospital Development,282,4,Ongoing,2024-06-09,2026-04-23
+592,Madhya Pradesh,Bhopal,23.2599,77.4126,Hospital Development,450,4,Ongoing,2024-07-05,2025-12-31
+593,Madhya Pradesh,Bhopal,23.2599,77.4126,Road Construction,403,38,Ongoing,2024-10-24,2025-10-23
+594,Madhya Pradesh,Bhopal,23.2599,77.4126,Road Construction,142,35,Ongoing,2025-04-03,2026-11-14
+595,Madhya Pradesh,Bhopal,23.2599,77.4126,Solar Power Plant,136,8,Ongoing,2024-02-23,2025-04-01
+596,Madhya Pradesh,Bhopal,23.2599,77.4126,School Infrastructure,182,80,Near Completion,2024-10-14,2026-11-23
+597,Madhya Pradesh,Bhopal,23.2599,77.4126,Hospital Development,404,66,Ongoing,2023-12-07,2024-10-14
+598,Madhya Pradesh,Bhopal,23.2599,77.4126,Water Supply Project,429,25,Ongoing,2024-02-04,2026-04-15
+599,Madhya Pradesh,Bhopal,23.2599,77.4126,Metro Expansion,42,52,Ongoing,2023-10-12,2025-10-09
+600,Madhya Pradesh,Indore,22.7196,75.8577,Hospital Development,329,88,Near Completion,2023-07-05,2024-11-27
+601,Madhya Pradesh,Indore,22.7196,75.8577,Smart City Infrastructure,385,44,Ongoing,2025-06-18,2027-01-25
+602,Madhya Pradesh,Indore,22.7196,75.8577,Hospital Development,475,12,Ongoing,2025-04-29,2027-09-30
+603,Madhya Pradesh,Indore,22.7196,75.8577,Bridge Construction,238,99,Near Completion,2024-03-16,2025-10-08
+604,Madhya Pradesh,Indore,22.7196,75.8577,Road Construction,296,3,Ongoing,2024-05-25,2026-10-26
+605,Madhya Pradesh,Indore,22.7196,75.8577,Smart City Infrastructure,213,37,Ongoing,2025-07-20,2026-11-30
+606,Madhya Pradesh,Indore,22.7196,75.8577,Solar Power Plant,232,94,Near Completion,2024-03-30,2025-01-03
+607,Madhya Pradesh,Indore,22.7196,75.8577,Smart City Infrastructure,386,26,Ongoing,2023-11-05,2024-07-25
+608,Madhya Pradesh,Indore,22.7196,75.8577,Smart City Infrastructure,140,73,Near Completion,2025-05-08,2026-08-06
+609,Madhya Pradesh,Indore,22.7196,75.8577,School Infrastructure,267,2,Ongoing,2023-08-02,2025-07-19
+610,Madhya Pradesh,Indore,22.7196,75.8577,Road Construction,100,52,Ongoing,2025-01-18,2026-05-11
+611,Madhya Pradesh,Jabalpur,23.1815,79.9864,Bridge Construction,413,13,Ongoing,2024-01-27,2024-12-09
+612,Madhya Pradesh,Jabalpur,23.1815,79.9864,Water Supply Project,118,97,Near Completion,2024-11-07,2027-02-17
+613,Madhya Pradesh,Jabalpur,23.1815,79.9864,Bridge Construction,354,28,Ongoing,2025-06-23,2027-07-03
+614,Madhya Pradesh,Jabalpur,23.1815,79.9864,Smart City Infrastructure,80,85,Near Completion,2025-11-01,2026-11-10
+615,Madhya Pradesh,Jabalpur,23.1815,79.9864,Smart City Infrastructure,88,37,Ongoing,2024-08-20,2027-01-02
+616,Madhya Pradesh,Jabalpur,23.1815,79.9864,Water Supply Project,186,45,Ongoing,2025-07-16,2027-06-16
+617,Madhya Pradesh,Jabalpur,23.1815,79.9864,Smart City Infrastructure,368,83,Near Completion,2025-02-17,2026-12-17
+618,Madhya Pradesh,Jabalpur,23.1815,79.9864,Road Construction,276,92,Near Completion,2023-07-18,2025-09-10
+619,Madhya Pradesh,Jabalpur,23.1815,79.9864,Smart City Infrastructure,385,62,Ongoing,2025-02-12,2026-07-30
+620,Madhya Pradesh,Jabalpur,23.1815,79.9864,School Infrastructure,69,0,Ongoing,2023-12-19,2025-12-22
+621,Madhya Pradesh,Jabalpur,23.1815,79.9864,Road Construction,384,85,Near Completion,2023-11-25,2025-01-19
+622,Madhya Pradesh,Gwalior,26.2183,78.1828,Smart City Infrastructure,109,56,Ongoing,2025-10-31,2027-03-04
+623,Madhya Pradesh,Gwalior,26.2183,78.1828,Hospital Development,470,65,Ongoing,2025-04-02,2026-07-20
+624,Madhya Pradesh,Gwalior,26.2183,78.1828,Solar Power Plant,408,71,Near Completion,2024-05-19,2025-05-09
+625,Madhya Pradesh,Gwalior,26.2183,78.1828,Smart City Infrastructure,88,81,Near Completion,2024-11-02,2026-08-08
+626,Madhya Pradesh,Gwalior,26.2183,78.1828,Water Supply Project,405,80,Near Completion,2023-08-16,2024-05-07
+627,Madhya Pradesh,Gwalior,26.2183,78.1828,Hospital Development,477,56,Ongoing,2024-11-05,2027-04-04
+628,Madhya Pradesh,Gwalior,26.2183,78.1828,Water Supply Project,103,13,Ongoing,2025-02-20,2026-01-19
+629,Madhya Pradesh,Gwalior,26.2183,78.1828,Road Construction,478,81,Near Completion,2025-08-04,2027-05-17
+630,Madhya Pradesh,Gwalior,26.2183,78.1828,Solar Power Plant,310,12,Ongoing,2025-04-03,2027-03-22
+631,Punjab,Amritsar,31.634,74.8723,Solar Power Plant,303,38,Ongoing,2024-06-04,2025-07-25
+632,Punjab,Amritsar,31.634,74.8723,Smart City Infrastructure,107,9,Ongoing,2024-12-23,2026-06-07
+633,Punjab,Amritsar,31.634,74.8723,Road Construction,242,42,Ongoing,2024-07-14,2026-11-16
+634,Punjab,Amritsar,31.634,74.8723,Water Supply Project,207,39,Ongoing,2025-01-08,2025-10-11
+635,Punjab,Amritsar,31.634,74.8723,Metro Expansion,401,71,Near Completion,2024-02-17,2025-07-20
+636,Punjab,Amritsar,31.634,74.8723,Road Construction,85,80,Near Completion,2023-12-11,2025-09-08
+637,Punjab,Amritsar,31.634,74.8723,Solar Power Plant,81,72,Near Completion,2025-06-18,2027-09-02
+638,Punjab,Amritsar,31.634,74.8723,Road Construction,60,69,Ongoing,2024-01-15,2024-10-22
+639,Punjab,Amritsar,31.634,74.8723,Water Supply Project,488,37,Ongoing,2024-04-13,2025-10-07
+640,Punjab,Amritsar,31.634,74.8723,Hospital Development,107,73,Near Completion,2023-09-22,2025-07-23
+641,Punjab,Amritsar,31.634,74.8723,Road Construction,495,18,Ongoing,2025-07-14,2026-02-09
+642,Punjab,Amritsar,31.634,74.8723,Road Construction,382,35,Ongoing,2024-12-22,2026-09-30
+643,Punjab,Amritsar,31.634,74.8723,Hospital Development,343,89,Near Completion,2025-05-21,2027-04-08
+644,Punjab,Amritsar,31.634,74.8723,Smart City Infrastructure,237,21,Ongoing,2025-08-05,2026-08-23
+645,Punjab,Ludhiana,30.9,75.8573,Metro Expansion,450,99,Near Completion,2023-08-17,2024-06-11
+646,Punjab,Ludhiana,30.9,75.8573,Hospital Development,490,75,Near Completion,2024-01-21,2025-01-08
+647,Punjab,Ludhiana,30.9,75.8573,Solar Power Plant,331,87,Near Completion,2024-07-29,2025-09-02
+648,Punjab,Ludhiana,30.9,75.8573,Hospital Development,420,45,Ongoing,2024-03-01,2024-10-27
+649,Punjab,Ludhiana,30.9,75.8573,Road Construction,175,93,Near Completion,2023-09-30,2024-04-19
+650,Punjab,Ludhiana,30.9,75.8573,Solar Power Plant,421,4,Ongoing,2024-05-09,2025-12-16
+651,Punjab,Ludhiana,30.9,75.8573,Metro Expansion,433,45,Ongoing,2024-11-24,2026-06-22
+652,Punjab,Ludhiana,30.9,75.8573,Metro Expansion,184,87,Near Completion,2024-09-10,2025-12-31
+653,Punjab,Ludhiana,30.9,75.8573,Metro Expansion,150,98,Near Completion,2023-12-15,2025-07-01
+654,Punjab,Ludhiana,30.9,75.8573,Road Construction,276,76,Near Completion,2025-04-02,2026-06-01
+655,Punjab,Ludhiana,30.9,75.8573,Water Supply Project,92,41,Ongoing,2024-08-12,2026-06-29
+656,Punjab,Jalandhar,31.326,75.5762,Road Construction,201,15,Ongoing,2024-10-02,2025-11-21
+657,Punjab,Jalandhar,31.326,75.5762,Metro Expansion,403,22,Ongoing,2023-11-02,2025-09-15
+658,Punjab,Jalandhar,31.326,75.5762,Metro Expansion,192,10,Ongoing,2025-05-21,2026-08-27
+659,Punjab,Jalandhar,31.326,75.5762,Road Construction,268,97,Near Completion,2025-04-26,2027-05-13
+660,Punjab,Jalandhar,31.326,75.5762,Smart City Infrastructure,302,43,Ongoing,2024-07-15,2025-06-30
+661,Punjab,Jalandhar,31.326,75.5762,Hospital Development,410,75,Near Completion,2025-10-30,2027-11-30
+662,Punjab,Jalandhar,31.326,75.5762,Water Supply Project,290,35,Ongoing,2024-02-01,2025-04-19
+663,Punjab,Jalandhar,31.326,75.5762,School Infrastructure,395,16,Ongoing,2024-08-25,2025-05-12
+664,Punjab,Jalandhar,31.326,75.5762,Solar Power Plant,268,85,Near Completion,2025-03-21,2027-09-01
+665,Punjab,Jalandhar,31.326,75.5762,Solar Power Plant,267,76,Near Completion,2025-01-22,2027-02-15
+666,Punjab,Jalandhar,31.326,75.5762,Solar Power Plant,488,38,Ongoing,2024-03-03,2025-02-26
+667,Punjab,Jalandhar,31.326,75.5762,Smart City Infrastructure,240,12,Ongoing,2024-03-19,2024-12-25
+668,Punjab,Jalandhar,31.326,75.5762,Water Supply Project,168,52,Ongoing,2023-11-07,2026-04-20
+669,Punjab,Jalandhar,31.326,75.5762,School Infrastructure,358,2,Ongoing,2024-11-10,2027-01-01
+670,Punjab,Jalandhar,31.326,75.5762,Solar Power Plant,181,38,Ongoing,2024-02-05,2025-06-15
+671,Haryana,Gurgaon,28.4595,77.0266,School Infrastructure,20,31,Ongoing,2024-12-08,2026-11-27
+672,Haryana,Gurgaon,28.4595,77.0266,Smart City Infrastructure,241,27,Ongoing,2024-10-21,2026-01-27
+673,Haryana,Gurgaon,28.4595,77.0266,Hospital Development,164,53,Ongoing,2025-03-03,2026-10-07
+674,Haryana,Gurgaon,28.4595,77.0266,Hospital Development,195,11,Ongoing,2024-08-22,2026-01-18
+675,Haryana,Gurgaon,28.4595,77.0266,Road Construction,342,93,Near Completion,2023-10-31,2026-04-13
+676,Haryana,Gurgaon,28.4595,77.0266,Smart City Infrastructure,335,13,Ongoing,2023-12-03,2026-03-18
+677,Haryana,Faridabad,28.4089,77.3178,Solar Power Plant,277,93,Near Completion,2023-12-19,2025-06-25
+678,Haryana,Faridabad,28.4089,77.3178,Water Supply Project,444,71,Near Completion,2023-12-26,2025-09-03
+679,Haryana,Faridabad,28.4089,77.3178,Metro Expansion,465,90,Near Completion,2025-05-31,2026-09-02
+680,Haryana,Faridabad,28.4089,77.3178,Metro Expansion,22,15,Ongoing,2025-04-08,2026-01-25
+681,Haryana,Faridabad,28.4089,77.3178,Water Supply Project,108,82,Near Completion,2023-10-25,2026-03-08
+682,Haryana,Faridabad,28.4089,77.3178,Hospital Development,163,78,Near Completion,2024-08-10,2026-09-23
+683,Haryana,Faridabad,28.4089,77.3178,Solar Power Plant,93,67,Ongoing,2023-09-12,2026-02-21
+684,Haryana,Faridabad,28.4089,77.3178,Road Construction,160,96,Near Completion,2024-02-14,2025-05-29
+685,Haryana,Faridabad,28.4089,77.3178,School Infrastructure,488,46,Ongoing,2025-11-03,2026-10-30
+686,Haryana,Panipat,29.3909,76.9635,Hospital Development,347,2,Ongoing,2023-08-29,2025-03-31
+687,Haryana,Panipat,29.3909,76.9635,Hospital Development,276,0,Ongoing,2023-11-25,2025-09-01
+688,Haryana,Panipat,29.3909,76.9635,Bridge Construction,427,89,Near Completion,2025-02-19,2026-01-14
+689,Haryana,Panipat,29.3909,76.9635,Smart City Infrastructure,376,73,Near Completion,2023-07-07,2025-10-19
+690,Haryana,Panipat,29.3909,76.9635,Road Construction,238,66,Ongoing,2024-12-10,2027-05-06
+691,Haryana,Panipat,29.3909,76.9635,Bridge Construction,402,13,Ongoing,2024-05-08,2025-03-09
+692,Odisha,Bhubaneswar,20.2961,85.8245,Hospital Development,214,72,Near Completion,2025-10-11,2026-06-11
+693,Odisha,Bhubaneswar,20.2961,85.8245,Smart City Infrastructure,434,76,Near Completion,2024-09-11,2025-12-07
+694,Odisha,Bhubaneswar,20.2961,85.8245,Metro Expansion,229,49,Ongoing,2025-01-02,2027-01-16
+695,Odisha,Bhubaneswar,20.2961,85.8245,Bridge Construction,339,91,Near Completion,2023-09-29,2024-12-31
+696,Odisha,Bhubaneswar,20.2961,85.8245,Metro Expansion,100,87,Near Completion,2024-07-27,2025-04-20
+697,Odisha,Bhubaneswar,20.2961,85.8245,Bridge Construction,466,25,Ongoing,2024-10-11,2027-02-22
+698,Odisha,Bhubaneswar,20.2961,85.8245,Road Construction,425,57,Ongoing,2023-08-11,2025-01-27
+699,Odisha,Cuttack,20.4625,85.883,Smart City Infrastructure,240,0,Ongoing,2025-05-09,2027-07-10
+700,Odisha,Cuttack,20.4625,85.883,School Infrastructure,289,47,Ongoing,2023-12-16,2026-03-22
+701,Odisha,Cuttack,20.4625,85.883,Bridge Construction,224,81,Near Completion,2024-12-26,2025-09-15
+702,Odisha,Cuttack,20.4625,85.883,Road Construction,300,4,Ongoing,2025-05-18,2025-12-22
+703,Odisha,Cuttack,20.4625,85.883,Bridge Construction,285,56,Ongoing,2025-01-28,2027-06-15
+704,Odisha,Cuttack,20.4625,85.883,School Infrastructure,386,88,Near Completion,2023-09-01,2024-07-20
+705,Odisha,Cuttack,20.4625,85.883,Metro Expansion,308,56,Ongoing,2023-09-11,2025-10-09
+706,Odisha,Rourkela,22.2604,84.8536,Water Supply Project,104,89,Near Completion,2025-03-31,2025-12-28
+707,Odisha,Rourkela,22.2604,84.8536,Water Supply Project,467,82,Near Completion,2024-02-23,2024-12-31
+708,Odisha,Rourkela,22.2604,84.8536,Hospital Development,415,23,Ongoing,2025-11-22,2027-06-28
+709,Odisha,Rourkela,22.2604,84.8536,Bridge Construction,464,14,Ongoing,2024-07-11,2026-06-27
+710,Odisha,Rourkela,22.2604,84.8536,Bridge Construction,116,83,Near Completion,2025-10-15,2026-08-15
+711,Odisha,Rourkela,22.2604,84.8536,Solar Power Plant,94,90,Near Completion,2023-08-24,2025-10-04
+712,Odisha,Rourkela,22.2604,84.8536,Smart City Infrastructure,475,37,Ongoing,2023-09-09,2025-12-19
+713,Odisha,Rourkela,22.2604,84.8536,Hospital Development,284,21,Ongoing,2025-10-01,2028-02-07
+714,Odisha,Rourkela,22.2604,84.8536,Water Supply Project,241,45,Ongoing,2024-11-06,2025-08-01
+715,Odisha,Rourkela,22.2604,84.8536,Metro Expansion,184,4,Ongoing,2024-02-18,2024-09-20
+716,Odisha,Rourkela,22.2604,84.8536,Bridge Construction,448,68,Ongoing,2024-07-09,2025-08-30
+717,Odisha,Rourkela,22.2604,84.8536,Bridge Construction,253,69,Ongoing,2025-07-07,2027-03-13
+718,Odisha,Rourkela,22.2604,84.8536,Smart City Infrastructure,394,7,Ongoing,2023-07-25,2025-11-26
+719,Odisha,Rourkela,22.2604,84.8536,Metro Expansion,20,10,Ongoing,2023-09-09,2025-11-05
+720,Odisha,Rourkela,22.2604,84.8536,School Infrastructure,201,83,Near Completion,2023-08-25,2024-05-27
+721,Assam,Guwahati,26.1445,91.7362,Water Supply Project,471,98,Near Completion,2025-08-15,2027-05-05
+722,Assam,Guwahati,26.1445,91.7362,Metro Expansion,28,9,Ongoing,2024-03-10,2026-07-01
+723,Assam,Guwahati,26.1445,91.7362,School Infrastructure,439,34,Ongoing,2024-04-07,2026-07-27
+724,Assam,Guwahati,26.1445,91.7362,Smart City Infrastructure,373,81,Near Completion,2024-10-17,2025-10-05
+725,Assam,Guwahati,26.1445,91.7362,Water Supply Project,279,74,Near Completion,2023-10-14,2024-05-26
+726,Assam,Guwahati,26.1445,91.7362,Hospital Development,22,87,Near Completion,2024-01-25,2024-12-05
+727,Assam,Guwahati,26.1445,91.7362,Water Supply Project,195,78,Near Completion,2025-04-01,2026-04-10
+728,Assam,Guwahati,26.1445,91.7362,Road Construction,83,79,Near Completion,2024-10-20,2026-04-17
+729,Assam,Guwahati,26.1445,91.7362,Solar Power Plant,189,77,Near Completion,2023-07-25,2024-09-22
+730,Assam,Guwahati,26.1445,91.7362,Hospital Development,384,26,Ongoing,2024-07-16,2026-06-18
+731,Assam,Guwahati,26.1445,91.7362,Water Supply Project,406,0,Ongoing,2024-01-19,2025-09-02
+732,Assam,Guwahati,26.1445,91.7362,Hospital Development,197,33,Ongoing,2025-07-09,2027-12-05
+733,Assam,Dibrugarh,27.4728,94.912,Water Supply Project,446,38,Ongoing,2024-02-22,2024-10-19
+734,Assam,Dibrugarh,27.4728,94.912,Smart City Infrastructure,399,52,Ongoing,2024-08-12,2025-05-18
+735,Assam,Dibrugarh,27.4728,94.912,School Infrastructure,130,14,Ongoing,2024-04-30,2025-12-03
+736,Assam,Dibrugarh,27.4728,94.912,Water Supply Project,262,68,Ongoing,2024-05-13,2025-11-02
+737,Assam,Dibrugarh,27.4728,94.912,Solar Power Plant,466,47,Ongoing,2025-03-07,2025-12-29
+738,Assam,Dibrugarh,27.4728,94.912,Bridge Construction,464,84,Near Completion,2025-06-26,2027-06-23
+739,Assam,Silchar,24.8333,92.7789,School Infrastructure,500,37,Ongoing,2025-10-28,2027-04-26
+740,Assam,Silchar,24.8333,92.7789,School Infrastructure,209,91,Near Completion,2025-02-01,2026-07-07
+741,Assam,Silchar,24.8333,92.7789,Water Supply Project,332,73,Near Completion,2024-11-19,2025-12-13
+742,Assam,Silchar,24.8333,92.7789,Bridge Construction,225,1,Ongoing,2023-07-28,2025-09-30
+743,Assam,Silchar,24.8333,92.7789,Road Construction,437,8,Ongoing,2024-02-26,2024-11-27
+744,Assam,Silchar,24.8333,92.7789,Water Supply Project,310,89,Near Completion,2023-10-08,2024-08-22
+745,Assam,Silchar,24.8333,92.7789,Hospital Development,476,26,Ongoing,2025-11-14,2026-08-26
+746,Assam,Silchar,24.8333,92.7789,Road Construction,285,0,Ongoing,2025-10-31,2027-08-13
+747,Assam,Silchar,24.8333,92.7789,Metro Expansion,205,70,Ongoing,2024-12-25,2026-05-12
+748,Assam,Silchar,24.8333,92.7789,School Infrastructure,147,13,Ongoing,2024-08-13,2025-03-03
+749,Assam,Silchar,24.8333,92.7789,Metro Expansion,426,75,Near Completion,2025-10-21,2027-11-15
+750,Assam,Silchar,24.8333,92.7789,Hospital Development,414,43,Ongoing,2024-05-22,2025-07-27
+751,Assam,Silchar,24.8333,92.7789,Road Construction,339,59,Ongoing,2023-06-29,2024-06-28
+752,Jharkhand,Ranchi,23.3441,85.3096,School Infrastructure,436,83,Near Completion,2023-12-02,2025-10-20
+753,Jharkhand,Ranchi,23.3441,85.3096,Solar Power Plant,494,53,Ongoing,2024-08-05,2025-11-13
+754,Jharkhand,Ranchi,23.3441,85.3096,Smart City Infrastructure,137,52,Ongoing,2024-02-13,2025-04-10
+755,Jharkhand,Ranchi,23.3441,85.3096,Hospital Development,91,21,Ongoing,2024-02-13,2025-08-18
+756,Jharkhand,Ranchi,23.3441,85.3096,Bridge Construction,145,75,Near Completion,2024-04-27,2025-10-06
+757,Jharkhand,Ranchi,23.3441,85.3096,Metro Expansion,204,75,Near Completion,2025-02-11,2025-08-31
+758,Jharkhand,Ranchi,23.3441,85.3096,Road Construction,394,67,Ongoing,2024-01-31,2025-11-06
+759,Jharkhand,Ranchi,23.3441,85.3096,Solar Power Plant,338,12,Ongoing,2024-08-13,2025-10-31
+760,Jharkhand,Jamshedpur,22.8046,86.2029,Solar Power Plant,49,23,Ongoing,2025-05-27,2027-07-17
+761,Jharkhand,Jamshedpur,22.8046,86.2029,Smart City Infrastructure,51,39,Ongoing,2025-08-06,2026-10-09
+762,Jharkhand,Jamshedpur,22.8046,86.2029,Bridge Construction,468,52,Ongoing,2024-11-07,2026-06-17
+763,Jharkhand,Jamshedpur,22.8046,86.2029,Water Supply Project,211,63,Ongoing,2024-12-30,2027-04-22
+764,Jharkhand,Jamshedpur,22.8046,86.2029,Road Construction,465,1,Ongoing,2024-05-06,2025-12-26
+765,Jharkhand,Jamshedpur,22.8046,86.2029,Metro Expansion,130,11,Ongoing,2025-06-06,2027-11-09
+766,Jharkhand,Jamshedpur,22.8046,86.2029,School Infrastructure,280,37,Ongoing,2023-08-27,2026-02-10
+767,Jharkhand,Jamshedpur,22.8046,86.2029,Metro Expansion,108,85,Near Completion,2024-03-24,2026-07-03
+768,Jharkhand,Jamshedpur,22.8046,86.2029,Hospital Development,219,50,Ongoing,2025-11-19,2027-03-15
+769,Jharkhand,Jamshedpur,22.8046,86.2029,Bridge Construction,141,83,Near Completion,2024-10-09,2027-02-15
+770,Jharkhand,Jamshedpur,22.8046,86.2029,School Infrastructure,307,51,Ongoing,2025-09-29,2026-07-08
+771,Jharkhand,Jamshedpur,22.8046,86.2029,Bridge Construction,36,71,Near Completion,2025-07-07,2026-05-05
+772,Jharkhand,Jamshedpur,22.8046,86.2029,School Infrastructure,182,32,Ongoing,2023-07-20,2024-04-23
+773,Jharkhand,Jamshedpur,22.8046,86.2029,Solar Power Plant,393,85,Near Completion,2025-11-14,2027-01-07
+774,Jharkhand,Jamshedpur,22.8046,86.2029,Smart City Infrastructure,433,44,Ongoing,2025-07-14,2027-12-17
+775,Jharkhand,Dhanbad,23.7957,86.4304,Smart City Infrastructure,227,14,Ongoing,2024-02-20,2025-09-05
+776,Jharkhand,Dhanbad,23.7957,86.4304,Metro Expansion,417,45,Ongoing,2025-05-08,2026-03-11
+777,Jharkhand,Dhanbad,23.7957,86.4304,Smart City Infrastructure,426,96,Near Completion,2023-07-24,2024-11-12
+778,Jharkhand,Dhanbad,23.7957,86.4304,Solar Power Plant,193,82,Near Completion,2023-08-23,2025-12-28
+779,Jharkhand,Dhanbad,23.7957,86.4304,Solar Power Plant,257,49,Ongoing,2024-04-19,2026-05-28
+780,Jharkhand,Dhanbad,23.7957,86.4304,Solar Power Plant,444,32,Ongoing,2024-04-26,2024-12-17
+781,Jharkhand,Dhanbad,23.7957,86.4304,School Infrastructure,38,15,Ongoing,2025-04-29,2026-05-05
+782,Jharkhand,Dhanbad,23.7957,86.4304,Metro Expansion,223,56,Ongoing,2025-05-24,2027-10-03
+783,Jharkhand,Dhanbad,23.7957,86.4304,Bridge Construction,330,10,Ongoing,2024-06-02,2025-11-03
+784,Jharkhand,Dhanbad,23.7957,86.4304,Road Construction,328,65,Ongoing,2023-11-05,2025-02-23
+785,Jharkhand,Dhanbad,23.7957,86.4304,Solar Power Plant,114,43,Ongoing,2024-06-02,2025-09-17
+786,Jharkhand,Dhanbad,23.7957,86.4304,Metro Expansion,29,43,Ongoing,2024-10-02,2027-02-23
+787,Chhattisgarh,Raipur,21.2514,81.6296,Metro Expansion,315,3,Ongoing,2025-02-23,2027-06-26
+788,Chhattisgarh,Raipur,21.2514,81.6296,Road Construction,69,79,Near Completion,2025-09-17,2027-09-29
+789,Chhattisgarh,Raipur,21.2514,81.6296,Hospital Development,120,63,Ongoing,2025-01-09,2025-09-29
+790,Chhattisgarh,Raipur,21.2514,81.6296,Smart City Infrastructure,426,68,Ongoing,2024-10-12,2025-12-09
+791,Chhattisgarh,Raipur,21.2514,81.6296,Water Supply Project,59,72,Near Completion,2025-01-10,2026-06-28
+792,Chhattisgarh,Raipur,21.2514,81.6296,Smart City Infrastructure,479,91,Near Completion,2025-04-30,2027-04-06
+793,Chhattisgarh,Raipur,21.2514,81.6296,Road Construction,367,64,Ongoing,2024-06-28,2025-09-13
+794,Chhattisgarh,Raipur,21.2514,81.6296,School Infrastructure,344,35,Ongoing,2024-07-27,2026-10-19
+795,Chhattisgarh,Bilaspur,22.0797,82.1409,Hospital Development,231,58,Ongoing,2024-12-27,2027-04-27
+796,Chhattisgarh,Bilaspur,22.0797,82.1409,Water Supply Project,235,70,Ongoing,2025-09-27,2026-05-11
+797,Chhattisgarh,Bilaspur,22.0797,82.1409,Metro Expansion,186,11,Ongoing,2023-12-10,2025-04-29
+798,Chhattisgarh,Bilaspur,22.0797,82.1409,School Infrastructure,201,91,Near Completion,2023-10-04,2025-07-16
+799,Chhattisgarh,Bilaspur,22.0797,82.1409,School Infrastructure,140,58,Ongoing,2024-04-11,2025-03-03
+800,Chhattisgarh,Bilaspur,22.0797,82.1409,Road Construction,22,19,Ongoing,2024-04-06,2025-11-26
+801,Chhattisgarh,Bilaspur,22.0797,82.1409,Bridge Construction,136,65,Ongoing,2025-08-16,2027-12-12
+802,Chhattisgarh,Bilaspur,22.0797,82.1409,Hospital Development,415,15,Ongoing,2025-07-23,2026-08-19
+803,Chhattisgarh,Bilaspur,22.0797,82.1409,School Infrastructure,75,95,Near Completion,2023-09-10,2025-05-31
+804,Chhattisgarh,Bilaspur,22.0797,82.1409,Hospital Development,483,70,Ongoing,2025-06-19,2027-02-06
+805,Chhattisgarh,Bilaspur,22.0797,82.1409,Water Supply Project,146,39,Ongoing,2024-12-08,2025-07-10
+806,Chhattisgarh,Durg,21.1904,81.2849,School Infrastructure,167,46,Ongoing,2024-11-29,2027-03-29
+807,Chhattisgarh,Durg,21.1904,81.2849,Solar Power Plant,375,41,Ongoing,2024-05-25,2025-08-19
+808,Chhattisgarh,Durg,21.1904,81.2849,Water Supply Project,329,50,Ongoing,2023-08-17,2025-02-11
+809,Chhattisgarh,Durg,21.1904,81.2849,Solar Power Plant,183,44,Ongoing,2024-11-11,2026-12-16
+810,Chhattisgarh,Durg,21.1904,81.2849,Bridge Construction,101,44,Ongoing,2025-10-10,2027-06-09
+811,Chhattisgarh,Durg,21.1904,81.2849,Hospital Development,148,55,Ongoing,2024-12-04,2027-03-19
+812,Chhattisgarh,Durg,21.1904,81.2849,Smart City Infrastructure,222,50,Ongoing,2025-04-19,2027-05-03
+813,Chhattisgarh,Durg,21.1904,81.2849,Solar Power Plant,159,80,Near Completion,2025-05-17,2027-07-12
+814,Chhattisgarh,Durg,21.1904,81.2849,Bridge Construction,294,90,Near Completion,2025-01-07,2026-11-30
+815,Chhattisgarh,Durg,21.1904,81.2849,School Infrastructure,474,10,Ongoing,2024-02-24,2026-04-10
+816,Chhattisgarh,Durg,21.1904,81.2849,Smart City Infrastructure,345,83,Near Completion,2024-12-06,2026-08-12
+817,Chhattisgarh,Durg,21.1904,81.2849,Bridge Construction,317,61,Ongoing,2025-11-16,2026-06-15
+818,Chhattisgarh,Durg,21.1904,81.2849,Metro Expansion,451,80,Near Completion,2024-08-11,2025-12-12

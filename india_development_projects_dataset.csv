@@ -1,0 +1,270 @@
+project_id,project_name,state,district,latitude,longitude,budget_crore,progress_percent,status
+1,Water Supply Project,Delhi,South East Delhi,29.482101413267767,76.2144772054084,162,42,Ongoing
+2,Water Supply Project,Delhi,South West Delhi,28.436473435974072,76.90603066913042,199,75,Near Completion
+3,Solar Power Plant,Delhi,New Delhi,29.201630257970958,77.15643301745185,170,92,Near Completion
+4,Solar Power Plant,Delhi,South Delhi,28.981820060385843,76.76699782948546,278,83,Near Completion
+5,School Development,Delhi,North West Delhi,29.487890331933052,76.62732840652124,427,89,Near Completion
+6,School Development,Delhi,South East Delhi,28.676598676844872,76.45675706546787,77,30,Ongoing
+7,Hospital Construction,Delhi,South East Delhi,27.612994316389454,76.59812517595438,180,72,Near Completion
+8,School Development,Delhi,North West Delhi,27.649727768500796,76.7305289721663,236,86,Near Completion
+9,School Development,Delhi,South West Delhi,29.183807214538735,76.76159373152649,73,31,Ongoing
+10,School Development,Delhi,South West Delhi,29.412862511592262,76.89672494485383,186,62,Ongoing
+11,Bridge Construction,Delhi,East Delhi,27.908730120576866,76.96644334495343,496,99,Near Completion
+12,Water Supply Project,Delhi,North East Delhi,28.841221875352844,76.78438621464406,445,35,Ongoing
+13,Road Construction,Delhi,West Delhi,28.218481202799126,76.54865958101415,254,72,Near Completion
+14,Solar Power Plant,Delhi,South Delhi,29.113246107599235,77.63010205301572,61,52,Ongoing
+15,Water Supply Project,Delhi,Shahdara,29.21045487331662,76.48265073916744,469,85,Near Completion
+16,Hospital Construction,Delhi,Central Delhi,29.478467201467872,78.19643981602266,500,30,Ongoing
+17,Smart City Infrastructure,Delhi,South Delhi,28.146214086810264,77.0333936643037,35,52,Ongoing
+18,Hospital Construction,Delhi,West Delhi,29.222717043324625,76.52124024959508,204,61,Ongoing
+19,Hospital Construction,Delhi,South West Delhi,27.799008125085315,77.0861561657037,186,33,Ongoing
+20,Metro Expansion,Delhi,South East Delhi,28.461269090384135,76.22011235514269,245,57,Ongoing
+21,Hospital Construction,Delhi,Central Delhi,28.74437168757473,77.64199030975631,263,88,Near Completion
+22,Road Construction,Delhi,East Delhi,28.42496451540098,76.82862333269878,133,87,Near Completion
+23,Road Construction,Delhi,South East Delhi,27.845450390408125,76.71074352093433,146,39,Ongoing
+24,Hospital Construction,Delhi,North West Delhi,28.90258004157402,77.69183966254573,371,54,Ongoing
+25,Solar Power Plant,Delhi,New Delhi,29.459267010748615,76.22021875040426,422,91,Near Completion
+26,Water Supply Project,Delhi,New Delhi,28.473329496487356,76.62475218994199,91,28,Ongoing
+27,School Development,Delhi,North East Delhi,27.82765187690763,76.82491961868648,457,3,Ongoing
+28,School Development,Delhi,New Delhi,28.187534563907377,78.09687190674863,66,8,Ongoing
+29,Hospital Construction,Delhi,North East Delhi,28.327511642033407,77.55608276569184,361,82,Near Completion
+30,Road Construction,Delhi,South Delhi,28.925644884441052,76.81724923052015,367,96,Near Completion
+31,Water Supply Project,Delhi,Central Delhi,29.4443058600798,78.12415228115148,470,54,Ongoing
+32,Solar Power Plant,Delhi,North Delhi,28.76960845417847,77.1756776560301,146,100,Completed
+33,Bridge Construction,Maharashtra,Thane,18.917551831108,75.86721910592942,116,72,Near Completion
+34,Water Supply Project,Maharashtra,Thane,20.079973286973775,76.54588782370278,120,48,Ongoing
+35,Metro Expansion,Maharashtra,Nashik,18.810163883917948,76.5122486020816,453,96,Near Completion
+36,Bridge Construction,Maharashtra,Thane,19.80327199664961,75.95854116266474,164,19,Ongoing
+37,Smart City Infrastructure,Maharashtra,Solapur,20.220490271483335,74.7770768601793,372,2,Ongoing
+38,Water Supply Project,Maharashtra,Kolhapur,19.242529630677613,75.48036767709823,439,80,Near Completion
+39,Metro Expansion,Maharashtra,Nashik,18.816129316668107,75.77738605879375,80,30,Ongoing
+40,Hospital Construction,Maharashtra,Solapur,20.64281443937788,75.90647933943367,436,11,Ongoing
+41,Water Supply Project,Maharashtra,Nagpur,20.38436452785109,76.21047924791011,114,10,Ongoing
+42,Bridge Construction,Maharashtra,Pune,20.483646207903433,75.51770649616286,317,98,Near Completion
+43,Metro Expansion,Maharashtra,Thane,18.79610919083632,76.04517100689675,361,94,Near Completion
+44,Road Construction,Maharashtra,Mumbai,20.1626355125396,75.91112850704899,341,77,Near Completion
+45,Smart City Infrastructure,Maharashtra,Aurangabad,19.521587684654353,75.64956303843914,206,44,Ongoing
+46,Solar Power Plant,Maharashtra,Pune,18.75478012323477,76.21858868897915,162,77,Near Completion
+47,Metro Expansion,Maharashtra,Aurangabad,19.167525096350214,75.14877330865356,124,40,Ongoing
+48,Hospital Construction,Maharashtra,Mumbai,18.89899928954765,75.96983275809238,96,67,Ongoing
+49,Bridge Construction,Maharashtra,Nashik,20.61389939120754,75.2230206246735,450,54,Ongoing
+50,Water Supply Project,Maharashtra,Solapur,20.14760620209029,76.24590631764698,482,90,Near Completion
+51,Water Supply Project,Maharashtra,Kolhapur,19.234633708491874,75.44112751673728,33,90,Near Completion
+52,Hospital Construction,Maharashtra,Kolhapur,20.084729008853714,75.93120345614828,482,30,Ongoing
+53,Solar Power Plant,Maharashtra,Pune,20.607274385939046,75.41837083528587,235,45,Ongoing
+54,Metro Expansion,Maharashtra,Nagpur,19.94686595313611,75.4665281664038,309,85,Near Completion
+55,Metro Expansion,Maharashtra,Thane,19.823594520398945,75.44888174052925,325,37,Ongoing
+56,Solar Power Plant,Maharashtra,Nashik,20.589658110142985,75.5316589716896,221,79,Near Completion
+57,School Development,Maharashtra,Mumbai,19.02537410855657,76.44974721153525,316,62,Ongoing
+58,Bridge Construction,Maharashtra,Mumbai,20.62298516270382,74.89368365477802,100,67,Ongoing
+59,Smart City Infrastructure,Maharashtra,Pune,19.036947841620787,74.83147099941351,396,0,Ongoing
+60,Hospital Construction,Maharashtra,Solapur,18.99570685149186,74.95198542280106,81,58,Ongoing
+61,School Development,Maharashtra,Thane,19.95080350545367,75.26438640956295,198,13,Ongoing
+62,Metro Expansion,Maharashtra,Aurangabad,20.470100814909014,76.16343782030037,113,76,Near Completion
+63,Smart City Infrastructure,Maharashtra,Thane,19.827863040624518,76.07069047620342,394,89,Near Completion
+64,Smart City Infrastructure,Maharashtra,Nashik,20.024865510099783,76.21336576959482,282,61,Ongoing
+65,Bridge Construction,Maharashtra,Thane,18.81293049105397,75.5259799868572,174,76,Near Completion
+66,Metro Expansion,Maharashtra,Pune,20.1954434149434,75.44362249655249,356,79,Near Completion
+67,Road Construction,Maharashtra,Solapur,19.72850675083541,75.93618946952506,338,91,Near Completion
+68,School Development,Maharashtra,Mumbai,19.728115267058993,74.9391986880804,455,12,Ongoing
+69,Hospital Construction,Maharashtra,Thane,19.990726510829447,75.79718109216782,70,35,Ongoing
+70,School Development,Maharashtra,Pune,19.523359043837967,76.3323146802299,273,52,Ongoing
+71,Metro Expansion,Maharashtra,Solapur,20.04565152607083,76.41405019246051,300,49,Ongoing
+72,Road Construction,Karnataka,Hubli,14.746933599952026,76.30034547999533,359,11,Ongoing
+73,Hospital Construction,Karnataka,Bengaluru,14.316868033149815,75.15835550196671,299,15,Ongoing
+74,Metro Expansion,Karnataka,Belagavi,15.698474467240237,75.19420426084389,109,1,Ongoing
+75,Water Supply Project,Karnataka,Mangaluru,15.311072895084925,75.10710629221741,222,63,Ongoing
+76,Smart City Infrastructure,Karnataka,Belagavi,15.698617878106466,74.88358939003251,118,81,Near Completion
+77,Road Construction,Karnataka,Hubli,14.598158846987186,76.13154562146134,352,59,Ongoing
+78,Solar Power Plant,Karnataka,Mangaluru,15.931894585969985,75.02264017045901,367,95,Near Completion
+79,Water Supply Project,Karnataka,Belagavi,15.427152873563776,75.70328741251556,367,56,Ongoing
+80,Solar Power Plant,Karnataka,Hubli,15.587119020682422,76.36558938053672,377,67,Ongoing
+81,School Development,Karnataka,Mysuru,15.218762329147639,76.2136744887604,251,23,Ongoing
+82,Metro Expansion,Karnataka,Mysuru,15.887589238441018,74.84257870088403,42,98,Near Completion
+83,Hospital Construction,Karnataka,Belagavi,16.108108413534794,74.86725088599471,417,89,Near Completion
+84,Hospital Construction,Karnataka,Belagavi,14.572576525684607,74.79522812615315,68,99,Near Completion
+85,Smart City Infrastructure,Karnataka,Belagavi,15.98227307741197,76.57449232416504,334,36,Ongoing
+86,Hospital Construction,Karnataka,Bengaluru,15.942421762632835,76.54424630292483,277,56,Ongoing
+87,Smart City Infrastructure,Karnataka,Ballari,15.353260272095719,75.47277619795882,441,68,Ongoing
+88,Road Construction,Karnataka,Hubli,14.429354291858717,75.31283312227988,119,55,Ongoing
+89,Metro Expansion,Karnataka,Belagavi,14.651933972759318,76.32678028783353,476,97,Near Completion
+90,Water Supply Project,Karnataka,Mysuru,15.435190513141425,75.43503815012429,227,23,Ongoing
+91,Metro Expansion,Karnataka,Ballari,16.154624481506197,75.7874050713311,249,97,Near Completion
+92,Smart City Infrastructure,Karnataka,Hubli,16.26031809774829,76.02695928187634,303,0,Ongoing
+93,Water Supply Project,Karnataka,Ballari,15.201569358540091,74.89804051526953,415,59,Ongoing
+94,Water Supply Project,Tamil Nadu,Salem,11.757989703193648,79.03627884921791,405,35,Ongoing
+95,School Development,Tamil Nadu,Tiruchirappalli,11.844830627856506,79.53299771148039,296,81,Near Completion
+96,Hospital Construction,Tamil Nadu,Salem,10.777092720900992,79.47599972696608,49,3,Ongoing
+97,Hospital Construction,Tamil Nadu,Chennai,10.906232139027884,77.84331518939601,223,31,Ongoing
+98,Road Construction,Tamil Nadu,Madurai,11.761495248691658,79.34860191609917,408,68,Ongoing
+99,Solar Power Plant,Tamil Nadu,Tiruchirappalli,11.439604950751892,79.26262845004446,364,53,Ongoing
+100,Solar Power Plant,Tamil Nadu,Chennai,10.728829522918732,77.85167315407278,433,39,Ongoing
+101,Metro Expansion,Tamil Nadu,Tiruchirappalli,10.535500945008966,79.20987882462343,268,79,Near Completion
+102,School Development,Tamil Nadu,Coimbatore,11.67106149342629,79.00658262771466,435,37,Ongoing
+103,Road Construction,Tamil Nadu,Tirunelveli,11.270685034390606,78.09931841087378,387,24,Ongoing
+104,Metro Expansion,Tamil Nadu,Salem,10.301595696616936,79.19458647213884,35,42,Ongoing
+105,School Development,Tamil Nadu,Chennai,10.265788674589906,78.86994630634429,300,31,Ongoing
+106,School Development,Tamil Nadu,Coimbatore,10.228127883764868,78.86526461601328,207,18,Ongoing
+107,Road Construction,Tamil Nadu,Coimbatore,11.554646475092518,78.00832228635053,91,30,Ongoing
+108,Solar Power Plant,Tamil Nadu,Salem,10.126654701177324,78.12727673769093,41,23,Ongoing
+109,Water Supply Project,Tamil Nadu,Salem,11.157577662073262,78.8103275189239,458,43,Ongoing
+110,Metro Expansion,Tamil Nadu,Salem,11.309711807697814,78.83737091440969,57,95,Near Completion
+111,Road Construction,Tamil Nadu,Madurai,11.52440943901004,78.85506520734474,48,16,Ongoing
+112,School Development,Tamil Nadu,Chennai,10.431616389117597,79.20017532333242,15,30,Ongoing
+113,Hospital Construction,Tamil Nadu,Coimbatore,10.747391340156607,79.61474568557624,202,29,Ongoing
+114,Smart City Infrastructure,Tamil Nadu,Chennai,10.693422395485193,78.71639996962269,475,10,Ongoing
+115,Road Construction,Tamil Nadu,Tirunelveli,11.333267584463185,78.80478356071325,420,9,Ongoing
+116,Solar Power Plant,Tamil Nadu,Coimbatore,10.316557276268632,77.65936866112733,147,81,Near Completion
+117,Water Supply Project,Tamil Nadu,Madurai,10.371843191551463,78.22775224787033,265,75,Near Completion
+118,Bridge Construction,Tamil Nadu,Chennai,10.67736804454949,78.06813133255571,492,85,Near Completion
+119,School Development,Tamil Nadu,Salem,11.039706623793382,78.77584541201585,28,85,Near Completion
+120,Smart City Infrastructure,Tamil Nadu,Salem,11.701952346559736,78.3553445142926,323,93,Near Completion
+121,Metro Expansion,Tamil Nadu,Coimbatore,11.749134982308794,79.56906967263383,25,28,Ongoing
+122,School Development,Tamil Nadu,Coimbatore,11.563517479513663,79.037909638753,40,85,Near Completion
+123,Metro Expansion,Tamil Nadu,Madurai,11.108913187612835,79.49752089839153,423,40,Ongoing
+124,Bridge Construction,Uttar Pradesh,Kanpur,26.350651547385052,80.72095321133989,288,50,Ongoing
+125,Water Supply Project,Uttar Pradesh,Ghaziabad,26.154866735095872,81.1772413574811,304,95,Near Completion
+126,Road Construction,Uttar Pradesh,Agra,27.02918643631766,80.63274646747674,17,48,Ongoing
+127,Hospital Construction,Uttar Pradesh,Ghaziabad,27.219433105089564,81.24881019671577,307,27,Ongoing
+128,Road Construction,Uttar Pradesh,Kanpur,26.976491760351482,80.29983313356396,307,37,Ongoing
+129,Bridge Construction,Uttar Pradesh,Noida,26.74168396708853,81.43304730293518,490,96,Near Completion
+130,Metro Expansion,Uttar Pradesh,Kanpur,26.68701505671863,80.6759248140795,51,96,Near Completion
+131,Metro Expansion,Uttar Pradesh,Ghaziabad,26.943067160096966,81.56784372516285,469,96,Near Completion
+132,Water Supply Project,Uttar Pradesh,Kanpur,27.701619717515765,81.61763681651234,438,3,Ongoing
+133,Metro Expansion,Uttar Pradesh,Ghaziabad,26.538552405985072,81.4717170839706,366,73,Near Completion
+134,Hospital Construction,Uttar Pradesh,Prayagraj,27.152313859480692,81.70762970294201,449,2,Ongoing
+135,School Development,Uttar Pradesh,Kanpur,25.967411384732607,81.7099137589864,40,46,Ongoing
+136,School Development,Uttar Pradesh,Ghaziabad,26.792569518024052,80.83848291739062,264,99,Near Completion
+137,School Development,Uttar Pradesh,Agra,26.685279653290067,81.91951693761905,236,22,Ongoing
+138,Smart City Infrastructure,Uttar Pradesh,Ghaziabad,27.03874501132986,79.96826455673511,71,40,Ongoing
+139,Water Supply Project,Uttar Pradesh,Prayagraj,26.644726778503497,80.57969790087792,89,26,Ongoing
+140,School Development,Uttar Pradesh,Varanasi,26.303064318908792,81.70389245328654,374,57,Ongoing
+141,Road Construction,Uttar Pradesh,Varanasi,27.71198533783132,80.06495835066922,125,41,Ongoing
+142,Water Supply Project,Uttar Pradesh,Ghaziabad,27.697573380243764,81.5188960409822,158,14,Ongoing
+143,Hospital Construction,Uttar Pradesh,Lucknow,26.44399971764254,81.23208152641561,24,74,Near Completion
+144,School Development,Uttar Pradesh,Varanasi,26.70668117244706,81.7003455639052,472,31,Ongoing
+145,School Development,Uttar Pradesh,Agra,27.48179311628594,81.41613498046496,436,70,Ongoing
+146,Solar Power Plant,Uttar Pradesh,Kanpur,26.871424708818708,81.76656466788504,167,77,Near Completion
+147,Bridge Construction,Uttar Pradesh,Varanasi,25.996103183297766,81.85405553405829,293,48,Ongoing
+148,School Development,Uttar Pradesh,Kanpur,27.654062305004945,81.4373997461172,444,84,Near Completion
+149,Smart City Infrastructure,Uttar Pradesh,Prayagraj,26.70371933775016,81.77898813997736,331,19,Ongoing
+150,Smart City Infrastructure,Uttar Pradesh,Prayagraj,27.43850582103924,80.56304665707671,471,43,Ongoing
+151,Bridge Construction,Uttar Pradesh,Agra,26.800228797631387,81.16682713028239,99,2,Ongoing
+152,Solar Power Plant,Uttar Pradesh,Lucknow,27.290748488049395,81.1065852600965,390,30,Ongoing
+153,Water Supply Project,Uttar Pradesh,Prayagraj,26.70008832384787,80.37950596959212,132,44,Ongoing
+154,School Development,Uttar Pradesh,Prayagraj,26.844895657548157,80.19183915267618,430,4,Ongoing
+155,Water Supply Project,Rajasthan,Kota,26.210894498818497,73.49336009989175,484,75,Near Completion
+156,School Development,Rajasthan,Ajmer,26.439574793123,74.13584896392938,476,76,Near Completion
+157,Hospital Construction,Rajasthan,Jaipur,27.108153938262948,73.7745193207744,206,30,Ongoing
+158,Water Supply Project,Rajasthan,Bikaner,26.569159354597687,75.13350534558055,459,85,Near Completion
+159,Hospital Construction,Rajasthan,Jodhpur,26.723698857269568,73.45984907884736,107,52,Ongoing
+160,Road Construction,Rajasthan,Udaipur,26.244988387030016,74.13825178980088,301,42,Ongoing
+161,Water Supply Project,Rajasthan,Ajmer,27.976717405001065,73.25765392928808,487,58,Ongoing
+162,Metro Expansion,Rajasthan,Jaipur,27.75192252421205,74.73181250893292,382,10,Ongoing
+163,Bridge Construction,Rajasthan,Kota,26.40333219712367,74.58400121006697,463,46,Ongoing
+164,School Development,Rajasthan,Udaipur,27.678839698986724,73.2784230979025,321,94,Near Completion
+165,Hospital Construction,Rajasthan,Jaipur,26.946375391491294,74.08799338299838,66,1,Ongoing
+166,Solar Power Plant,Rajasthan,Jodhpur,26.37963944160273,73.30460126101225,66,46,Ongoing
+167,Metro Expansion,Rajasthan,Kota,26.705655789378966,75.19506572268023,205,43,Ongoing
+168,Road Construction,Rajasthan,Kota,27.02967492460082,73.81867047146756,158,58,Ongoing
+169,Bridge Construction,Rajasthan,Udaipur,26.730983247842442,74.3492519124398,331,81,Near Completion
+170,Solar Power Plant,Rajasthan,Kota,26.28025004606592,73.67848257710378,140,58,Ongoing
+171,Solar Power Plant,Rajasthan,Bikaner,26.92757196282572,74.12674718048919,217,42,Ongoing
+172,Bridge Construction,Rajasthan,Jodhpur,27.91981118918545,74.57406355657133,313,8,Ongoing
+173,Road Construction,Rajasthan,Kota,27.10264504040101,74.4217633998069,405,18,Ongoing
+174,School Development,Rajasthan,Ajmer,26.43426220274874,73.66745952234716,361,87,Near Completion
+175,Metro Expansion,Rajasthan,Udaipur,27.63665252669652,75.0122095962631,44,52,Ongoing
+176,Solar Power Plant,Rajasthan,Bikaner,27.807392502279694,73.53732926045346,163,57,Ongoing
+177,Hospital Construction,Rajasthan,Kota,26.963881913693857,74.91768631059693,90,61,Ongoing
+178,School Development,Rajasthan,Jodhpur,27.243099984507836,74.99890984969007,300,21,Ongoing
+179,Road Construction,Rajasthan,Ajmer,26.921785640066926,74.05602058081807,188,59,Ongoing
+180,Road Construction,Rajasthan,Jodhpur,27.900497566465784,73.90880525035423,301,63,Ongoing
+181,Smart City Infrastructure,Rajasthan,Ajmer,26.920262760390475,75.06294083211637,92,24,Ongoing
+182,Water Supply Project,Rajasthan,Kota,26.915067189432495,74.75682887020797,179,52,Ongoing
+183,Smart City Infrastructure,Rajasthan,Udaipur,27.642839271550272,74.46684683720143,179,63,Ongoing
+184,Road Construction,Rajasthan,Udaipur,26.78713818523575,73.42579498261027,274,77,Near Completion
+185,Hospital Construction,Rajasthan,Jodhpur,26.53582222967125,73.53544855042094,157,18,Ongoing
+186,Hospital Construction,Rajasthan,Jaipur,26.376408077243333,73.81183718229593,131,27,Ongoing
+187,Solar Power Plant,Rajasthan,Jaipur,27.211522365742145,75.00336493992717,242,97,Near Completion
+188,Smart City Infrastructure,Rajasthan,Bikaner,26.967677841836906,74.13917570541886,22,84,Near Completion
+189,Smart City Infrastructure,Rajasthan,Udaipur,26.153483963025792,73.38430815454579,12,10,Ongoing
+190,Smart City Infrastructure,Rajasthan,Jodhpur,26.89058593248177,73.4667365385581,106,28,Ongoing
+191,School Development,Gujarat,Surat,22.77111040997995,70.70406017927307,453,2,Ongoing
+192,Road Construction,Gujarat,Bhavnagar,21.444822752252854,70.83226691406236,90,69,Ongoing
+193,Hospital Construction,Gujarat,Bhavnagar,22.77306759017151,72.10553045923032,490,14,Ongoing
+194,School Development,Gujarat,Surat,21.422365123437384,72.09930290155495,433,86,Near Completion
+195,Metro Expansion,Gujarat,Ahmedabad,22.348107146635332,71.70365422977379,411,12,Ongoing
+196,Smart City Infrastructure,Gujarat,Rajkot,22.886789566306575,70.44460544249668,478,26,Ongoing
+197,Metro Expansion,Gujarat,Ahmedabad,22.859014369172424,70.31499424349234,288,74,Near Completion
+198,Solar Power Plant,Gujarat,Surat,22.874428515605892,71.36727282537674,16,97,Near Completion
+199,Metro Expansion,Gujarat,Ahmedabad,21.902835879291505,71.03005257797291,198,51,Ongoing
+200,Water Supply Project,Gujarat,Surat,21.304817214970445,71.93978685954825,61,36,Ongoing
+201,Smart City Infrastructure,Gujarat,Vadodara,22.227699978147772,71.98989327569284,269,14,Ongoing
+202,Water Supply Project,Gujarat,Surat,22.083087004519786,70.44574017995896,269,15,Ongoing
+203,Solar Power Plant,Gujarat,Bhavnagar,22.659214317371923,71.97075200924887,408,8,Ongoing
+204,Water Supply Project,Gujarat,Surat,23.078075853824902,71.03913420744,234,58,Ongoing
+205,Hospital Construction,Gujarat,Bhavnagar,21.43401529983483,72.03493136413405,177,71,Near Completion
+206,Bridge Construction,Gujarat,Surat,22.199155805411554,71.4205910169738,80,26,Ongoing
+207,Solar Power Plant,Gujarat,Ahmedabad,22.324559318798826,71.4564442862758,236,13,Ongoing
+208,Bridge Construction,Gujarat,Rajkot,21.89418923892997,71.88896099079824,296,70,Ongoing
+209,Smart City Infrastructure,Gujarat,Vadodara,23.237942382775366,71.58655587632401,272,69,Ongoing
+210,School Development,Gujarat,Ahmedabad,21.76776190531622,70.74122766314007,350,80,Near Completion
+211,Smart City Infrastructure,Gujarat,Vadodara,22.07030054286227,71.98911742369016,476,6,Ongoing
+212,Metro Expansion,Gujarat,Ahmedabad,23.216640389529186,70.41532620041137,132,87,Near Completion
+213,Metro Expansion,Gujarat,Surat,22.58589557692136,70.76621512166403,117,79,Near Completion
+214,Metro Expansion,Gujarat,Rajkot,21.417448690316192,70.28121306905096,312,66,Ongoing
+215,Smart City Infrastructure,Gujarat,Surat,21.422724500756637,71.77560015282506,317,86,Near Completion
+216,Hospital Construction,Gujarat,Bhavnagar,22.285027305450313,70.57966670387462,146,59,Ongoing
+217,School Development,Gujarat,Surat,22.395100233656397,70.22059677275138,330,58,Ongoing
+218,Bridge Construction,Gujarat,Rajkot,22.10423763695833,71.18151471699609,64,21,Ongoing
+219,Bridge Construction,Gujarat,Surat,21.272173342379517,71.73366574934546,50,22,Ongoing
+220,Road Construction,Gujarat,Vadodara,21.881601549833128,72.15397853741453,143,41,Ongoing
+221,Smart City Infrastructure,Gujarat,Surat,22.62575676855422,72.00627951162198,147,99,Near Completion
+222,School Development,Gujarat,Rajkot,21.606494089482993,70.25258402440848,278,34,Ongoing
+223,Solar Power Plant,Gujarat,Bhavnagar,22.061449392425278,71.40578388807528,176,100,Completed
+224,Water Supply Project,Gujarat,Bhavnagar,22.880544021021564,72.01504618813702,223,26,Ongoing
+225,Solar Power Plant,Gujarat,Rajkot,21.745198319385977,71.18059495951375,449,49,Ongoing
+226,Smart City Infrastructure,Gujarat,Ahmedabad,22.298186152466926,71.28479402302136,424,26,Ongoing
+227,Smart City Infrastructure,Gujarat,Ahmedabad,22.69775261172947,72.03098913235415,313,91,Near Completion
+228,School Development,Gujarat,Vadodara,22.441941114205218,71.84684082302839,69,2,Ongoing
+229,Metro Expansion,Gujarat,Rajkot,23.08397351220704,70.65165000160526,272,50,Ongoing
+230,Smart City Infrastructure,West Bengal,Siliguri,23.79739583848056,87.70072177536319,89,44,Ongoing
+231,Metro Expansion,West Bengal,Siliguri,22.736335904842523,87.57548147828052,413,58,Ongoing
+232,Smart City Infrastructure,West Bengal,Howrah,23.760643725282275,87.88855972848953,262,58,Ongoing
+233,Metro Expansion,West Bengal,Kolkata,23.698342905291042,87.84741604111915,369,77,Near Completion
+234,Solar Power Plant,West Bengal,Darjeeling,23.47283961458445,87.37349955379966,156,64,Ongoing
+235,Water Supply Project,West Bengal,Howrah,23.687747699742864,88.30991097122525,241,80,Near Completion
+236,Metro Expansion,West Bengal,Kolkata,22.561743104059506,88.36993151164138,220,38,Ongoing
+237,Hospital Construction,West Bengal,Howrah,23.921247986767582,87.14784749807957,306,57,Ongoing
+238,Metro Expansion,West Bengal,Howrah,22.302414385534608,87.08126354540694,411,83,Near Completion
+239,Bridge Construction,West Bengal,Siliguri,23.00582889783457,88.03545715682515,309,68,Ongoing
+240,Solar Power Plant,West Bengal,Siliguri,22.703323636237048,88.0946739686375,25,17,Ongoing
+241,School Development,West Bengal,Howrah,23.598781680431532,86.98358805411073,482,24,Ongoing
+242,Water Supply Project,West Bengal,Siliguri,22.236427353520156,87.86404561473897,142,33,Ongoing
+243,Solar Power Plant,West Bengal,Darjeeling,23.50118079198563,88.40609413598358,49,7,Ongoing
+244,Solar Power Plant,West Bengal,Durgapur,22.384137119610337,88.15733083657352,119,31,Ongoing
+245,Smart City Infrastructure,West Bengal,Kolkata,22.579693678682506,87.76064721305781,202,10,Ongoing
+246,Solar Power Plant,West Bengal,Kolkata,23.595406795958336,87.06501937710648,166,28,Ongoing
+247,Bridge Construction,West Bengal,Howrah,22.425441159268164,86.90496561560381,292,43,Ongoing
+248,Hospital Construction,West Bengal,Siliguri,23.398775844822968,87.61564757573667,260,11,Ongoing
+249,Road Construction,West Bengal,Durgapur,23.219368329618412,87.40920142692329,382,64,Ongoing
+250,Road Construction,West Bengal,Howrah,23.191080942037434,88.06127752949378,229,92,Near Completion
+251,Road Construction,West Bengal,Siliguri,22.168563371439742,87.85205487465791,401,58,Ongoing
+252,Road Construction,West Bengal,Siliguri,22.582526236154752,87.58733474093195,346,14,Ongoing
+253,Hospital Construction,West Bengal,Darjeeling,23.295140197990495,88.35809694958165,240,10,Ongoing
+254,Road Construction,West Bengal,Howrah,22.52774637154511,88.58585477592467,388,1,Ongoing
+255,Solar Power Plant,West Bengal,Darjeeling,23.053063713421448,88.48629146064089,244,48,Ongoing
+256,Road Construction,West Bengal,Darjeeling,23.441040520117856,88.76261332115338,454,12,Ongoing
+257,Bridge Construction,West Bengal,Kolkata,23.62865563599297,88.68336001548937,271,80,Near Completion
+258,Road Construction,West Bengal,Siliguri,22.002468478536983,87.27235226320535,131,69,Ongoing
+259,School Development,West Bengal,Howrah,22.04557336346898,88.64933659879627,326,47,Ongoing
+260,Solar Power Plant,West Bengal,Darjeeling,23.38068936429672,87.6822150841931,472,55,Ongoing
+261,Metro Expansion,West Bengal,Siliguri,22.24811658614827,87.82082679053016,115,60,Ongoing
+262,Metro Expansion,West Bengal,Howrah,22.14310500385975,87.62561293253562,282,49,Ongoing
+263,Solar Power Plant,West Bengal,Kolkata,22.273708267080806,87.5047405843934,143,92,Near Completion
+264,Road Construction,West Bengal,Howrah,23.53137947037555,88.22000549556003,55,83,Near Completion
+265,Water Supply Project,West Bengal,Howrah,23.58129241944694,87.80474791307702,109,53,Ongoing
+266,Solar Power Plant,West Bengal,Kolkata,22.966864854261626,87.291851195746,43,29,Ongoing
+267,Metro Expansion,West Bengal,Darjeeling,22.716656544077157,87.56876261955784,267,7,Ongoing
+268,Road Construction,West Bengal,Howrah,22.111087848035364,87.74564130254497,205,69,Ongoing
+269,Solar Power Plant,West Bengal,Durgapur,22.540415854617272,88.01722400140636,47,89,Near Completion
